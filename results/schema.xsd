@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:element name="results">
+  <xsd:complexType>
+    <xsd:sequence>
+        <xsd:element ref="episode" maxOccurs="unbounded"/>
+    </xsd:sequence>
+    <xsd:attribute name="task" type="xsd:string" use="required"/>
+    <xsd:attribute name="term" type="xsd:string"/>
+    <xsd:attribute name="key" type="xsd:string" use="required"/>
+  </xsd:complexType>
+</xsd:element>
+<xsd:element name="episode">
+  <xsd:complexType>
+    <xsd:sequence>
+        <xsd:element ref="subtitle" maxOccurs="unbounded"/>
+    </xsd:sequence>
+    <xsd:attribute name="id" type="xsd:string" use="required"/>
+    <xsd:attribute name="title" type="xsd:string" use="required"/>
+  </xsd:complexType>
+</xsd:element>
+<xsd:element name="subtitle">
+  <xsd:complexType>
+    <xsd:sequence>
+        <xsd:element ref="dialogue" maxOccurs="2"/>
+    </xsd:sequence>
+    <xsd:attribute name="id" type="xsd:string" use="required"/>
+  </xsd:complexType>
+</xsd:element>
+<xsd:element name="dialogue">
+  <xsd:complexType>
+    <xsd:simpleContent>
+      <xsd:extension base="xsd:string">
+        <xsd:attribute name="lang" type="xsd:string" use="required"/>
+      </xsd:extension>
+    </xsd:simpleContent>
+  </xsd:complexType>
+</xsd:element>
+</xsd:schema>

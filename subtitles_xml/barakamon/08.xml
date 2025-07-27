@@ -1,0 +1,2553 @@
+<?xml version='1.0' encoding='utf-8'?>
+<episode id="barakamon_08" title="Barakamon Episode 08">
+  <subtitle id="1">
+    <start>0:00:00</start>
+    <end>0:00:01.930000</end>
+    <dialogue lang="en">August</dialogue>
+    <dialogue lang="jp">（セミの鳴き声）</dialogue>
+  </subtitle>
+  <subtitle id="2">
+    <start>0:00:03.440000</start>
+    <end>0:00:05.400000</end>
+    <dialogue lang="en">The role of the young</dialogue>
+    <dialogue lang="jp">（川藤(かわふじ)）若い者の役目は</dialogue>
+  </subtitle>
+  <subtitle id="3">
+    <start>0:00:05.400000</start>
+    <end>0:00:09.400000</end>
+    <dialogue lang="en">is to break new ground without fear of failure!</dialogue>
+    <dialogue lang="jp">失敗することを恐れず 新境地を開くことにあるのだ！</dialogue>
+  </subtitle>
+  <subtitle id="4">
+    <start>0:00:09.740000</start>
+    <end>0:00:11.900000</end>
+    <dialogue lang="en">Break new ground, huh...</dialogue>
+    <dialogue lang="jp">（半田(はんだ)）新境地… か</dialogue>
+  </subtitle>
+  <subtitle id="5">
+    <start>0:00:12.360000</start>
+    <end>0:00:15.990000</end>
+    <dialogue lang="en">Feather</dialogue>
+    <dialogue lang="jp">うーん…</dialogue>
+  </subtitle>
+  <subtitle id="6">
+    <start>0:00:16.750000</start>
+    <end>0:00:17.580000</end>
+    <dialogue lang="en">Okay...</dialogue>
+    <dialogue lang="jp">じゃあ</dialogue>
+  </subtitle>
+  <subtitle id="7">
+    <start>0:00:22.210000</start>
+    <end>0:00:23.210000</end>
+    <dialogue lang="en">Sensei!</dialogue>
+    <dialogue lang="jp">（美和(みわ)）先生</dialogue>
+  </subtitle>
+  <subtitle id="8">
+    <start>0:00:25.530000</start>
+    <end>0:00:26.950000</end>
+    <dialogue lang="en">What're you tryin' to do?</dialogue>
+    <dialogue lang="jp">（美和）なんばしよっと？</dialogue>
+  </subtitle>
+  <subtitle id="9">
+    <start>0:00:27.880000</start>
+    <end>0:00:30.500000</end>
+    <dialogue lang="en">Rice Bowl</dialogue>
+    <dialogue lang="jp">（半田）うわあ！</dialogue>
+  </subtitle>
+  <subtitle id="10">
+    <start>0:00:32.070000</start>
+    <end>0:00:33.090000</end>
+    <dialogue lang="en">It's Naru's birthday?</dialogue>
+    <dialogue lang="jp">なるの誕生日？</dialogue>
+  </subtitle>
+  <subtitle id="11">
+    <start>0:00:33.320000</start>
+    <end>0:00:34.130000</end>
+    <dialogue lang="en">Shh!</dialogue>
+    <dialogue lang="jp">シーッ！　なるが聞いちょったら サプライズにならんやろ</dialogue>
+  </subtitle>
+  <subtitle id="12">
+    <start>0:00:36.910000</start>
+    <end>0:00:39.680000</end>
+    <dialogue lang="en">We thought we'd all throw a party for her.</dialogue>
+    <dialogue lang="jp">（タマ）みんなで パーティー開いてやろうと思って</dialogue>
+  </subtitle>
+  <subtitle id="13">
+    <start>0:00:39.680000</start>
+    <end>0:00:41.810000</end>
+    <dialogue lang="en">You're an adult, so contribute a thousand yen.</dialogue>
+    <dialogue lang="jp">先生は大人だから 1000円ね</dialogue>
+  </subtitle>
+  <subtitle id="14">
+    <start>0:00:41.830000</start>
+    <end>0:00:48.520000</end>
+    <dialogue lang="en">Happy Birthday</dialogue>
+    <dialogue lang="jp">ガキの誕生会に 会費取るのか？</dialogue>
+  </subtitle>
+  <subtitle id="15">
+    <start>0:00:44.070000</start>
+    <end>0:00:46.070000</end>
+    <dialogue lang="en">Not party fees. It's the cake fee.</dialogue>
+    <dialogue lang="jp">会費じゃなくて ケーキ代</dialogue>
+  </subtitle>
+  <subtitle id="16">
+    <start>0:00:46.070000</start>
+    <end>0:00:48.520000</end>
+    <dialogue lang="en">We can't buy a whole one with our pocket change.</dialogue>
+    <dialogue lang="jp">私らの小遣いじゃ ホール 買えないから</dialogue>
+  </subtitle>
+  <subtitle id="17">
+    <start>0:00:49</start>
+    <end>0:00:51.980000</end>
+    <dialogue lang="en">Hiro-nii will bring the food this evening.</dialogue>
+    <dialogue lang="jp">夕方には ヒロ兄が 料理 持ってくっけん</dialogue>
+  </subtitle>
+  <subtitle id="18">
+    <start>0:00:51.980000</start>
+    <end>0:00:54.080000</end>
+    <dialogue lang="en">Sensei, you get a present for her, too.</dialogue>
+    <dialogue lang="jp">先生も プレゼント 用意しちょってね</dialogue>
+  </subtitle>
+  <subtitle id="19">
+    <start>0:00:54.080000</start>
+    <end>0:00:54.900000</end>
+    <dialogue lang="en">A present?!</dialogue>
+    <dialogue lang="jp">プレゼント？</dialogue>
+  </subtitle>
+  <subtitle id="20">
+    <start>0:00:55.060000</start>
+    <end>0:00:57.300000</end>
+    <dialogue lang="en">Cake! Cake!</dialogue>
+    <dialogue lang="jp">{\an8}（美和･タマ） ♪ ケーキ ケーキ</dialogue>
+  </subtitle>
+  <subtitle id="21">
+    <start>0:00:55.410000</start>
+    <end>0:00:57.660000</end>
+    <dialogue lang="en">Wait, I have to write today...</dialogue>
+    <dialogue lang="jp">って 俺 今日は書かないと…</dialogue>
+  </subtitle>
+  <subtitle id="22">
+    <start>0:00:58.530000</start>
+    <end>0:01:01.950000</end>
+    <dialogue lang="en">Feather</dialogue>
+    <dialogue lang="jp">まっ 今日は いいか</dialogue>
+  </subtitle>
+  <subtitle id="23">
+    <start>0:01:00.080000</start>
+    <end>0:01:01.450000</end>
+    <dialogue lang="en">I guess that's enough for today.</dialogue>
+    <dialogue lang="jp">♪～</dialogue>
+  </subtitle>
+  <subtitle id="24">
+    <start>0:02:37.780000</start>
+    <end>0:02:38.840000</end>
+    <dialogue lang="en">Your present is...</dialogue>
+    <dialogue lang="jp">プレゼントは クマさんのぬいぐるみだぞ</dialogue>
+  </subtitle>
+  <subtitle id="25">
+    <start>0:02:38.840000</start>
+    <end>0:02:40.130000</end>
+    <dialogue lang="en">a teddy bear!</dialogue>
+    <dialogue lang="jp">（なる）ウハー！　サンドバッグだ</dialogue>
+  </subtitle>
+  <subtitle id="26">
+    <start>0:02:41.170000</start>
+    <end>0:02:42.390000</end>
+    <dialogue lang="en">It's a punching bag!</dialogue>
+    <dialogue lang="jp">リボンだぞ</dialogue>
+  </subtitle>
+  <subtitle id="27">
+    <start>0:02:42.950000</start>
+    <end>0:02:43.760000</end>
+    <dialogue lang="en">A ribbon!</dialogue>
+    <dialogue lang="jp">ヤッホー！ 腰に巻くとにピッタリよ</dialogue>
+  </subtitle>
+  <subtitle id="28">
+    <start>0:02:47.430000</start>
+    <end>0:02:49.020000</end>
+    <dialogue lang="en">Look, a hand mirror!</dialogue>
+    <dialogue lang="jp">ほら 鏡だぞ</dialogue>
+  </subtitle>
+  <subtitle id="29">
+    <start>0:02:49.390000</start>
+    <end>0:02:52.400000</end>
+    <dialogue lang="en">Yay! Laser Beam!</dialogue>
+    <dialogue lang="jp">イエーイ レーザービーム！</dialogue>
+  </subtitle>
+  <subtitle id="30">
+    <start>0:02:51.390000</start>
+    <end>0:02:52.400000</end>
+    <dialogue lang="en">Too bright!</dialogue>
+    <dialogue lang="jp">（半田）まぶしい</dialogue>
+  </subtitle>
+  <subtitle id="31">
+    <start>0:02:54.180000</start>
+    <end>0:02:56.100000</end>
+    <dialogue lang="en">None of those suit her.</dialogue>
+    <dialogue lang="jp">うーん どれもしっくりこないな</dialogue>
+  </subtitle>
+  <subtitle id="32">
+    <start>0:02:56.420000</start>
+    <end>0:02:58.590000</end>
+    <dialogue lang="en">What would she like?</dialogue>
+    <dialogue lang="jp">あいつ 何が喜ぶんだろう？</dialogue>
+  </subtitle>
+  <subtitle id="33">
+    <start>0:03:01.320000</start>
+    <end>0:03:02.800000</end>
+    <dialogue lang="en">Shut up, cicada!</dialogue>
+    <dialogue lang="jp">セミ うるせえな！</dialogue>
+  </subtitle>
+  <subtitle id="34">
+    <start>0:03:07.130000</start>
+    <end>0:03:08.330000</end>
+    <dialogue lang="en">All right, I got it!</dialogue>
+    <dialogue lang="jp">ああ</dialogue>
+  </subtitle>
+  <subtitle id="35">
+    <start>0:03:08.730000</start>
+    <end>0:03:10.500000</end>
+    <dialogue lang="en">I caught a cicada!</dialogue>
+    <dialogue lang="jp">（ケン太(た)）よーし やった！ セミ 捕まえた</dialogue>
+  </subtitle>
+  <subtitle id="36">
+    <start>0:03:11.580000</start>
+    <end>0:03:13.360000</end>
+    <dialogue lang="en">Kenta, got a moment?</dialogue>
+    <dialogue lang="jp">（ダイスケ）アハハッ （ユタカ）イエーイ！</dialogue>
+  </subtitle>
+  <subtitle id="37">
+    <start>0:03:13.920000</start>
+    <end>0:03:14.420000</end>
+    <dialogue lang="en">Sensei?</dialogue>
+    <dialogue lang="jp">あっ 先生 なんか用？</dialogue>
+  </subtitle>
+  <subtitle id="38">
+    <start>0:03:14.980000</start>
+    <end>0:03:15.900000</end>
+    <dialogue lang="en">Need somethin'?</dialogue>
+    <dialogue lang="jp">いや ちょっと頼みがあって</dialogue>
+  </subtitle>
+  <subtitle id="39">
+    <start>0:03:19.520000</start>
+    <end>0:03:21.980000</end>
+    <dialogue lang="en">This is the only present I can think of.</dialogue>
+    <dialogue lang="jp">プレゼントが これしか思いつかん</dialogue>
+  </subtitle>
+  <subtitle id="40">
+    <start>0:03:21.980000</start>
+    <end>0:03:23.880000</end>
+    <dialogue lang="en">Could I have a rhinoceros beetle?</dialogue>
+    <dialogue lang="jp">カブトムシを１匹くれ…</dialogue>
+  </subtitle>
+  <subtitle id="41">
+    <start>0:03:23.080000</start>
+    <end>0:03:23.880000</end>
+    <dialogue lang="en">No way!</dialogue>
+    <dialogue lang="jp">イヤよ</dialogue>
+  </subtitle>
+  <subtitle id="42">
+    <start>0:03:24.970000</start>
+    <end>0:03:26.580000</end>
+    <dialogue lang="en">One! Just one!</dialogue>
+    <dialogue lang="jp">１匹 １匹だけだぞ！ 10円やるから 子供には大金だろ</dialogue>
+  </subtitle>
+  <subtitle id="43">
+    <start>0:03:28.770000</start>
+    <end>0:03:30.230000</end>
+    <dialogue lang="en">Yer bein' a pest, Sensei!</dialogue>
+    <dialogue lang="jp">しつこかぞ 先生</dialogue>
+  </subtitle>
+  <subtitle id="44">
+    <start>0:03:30.590000</start>
+    <end>0:03:32.690000</end>
+    <dialogue lang="en">This present's for Naru, right?</dialogue>
+    <dialogue lang="jp">プレゼントっち なるに やっとやろ？</dialogue>
+  </subtitle>
+  <subtitle id="45">
+    <start>0:03:32.690000</start>
+    <end>0:03:34.750000</end>
+    <dialogue lang="en">I'm givin' her rhinoceros beetles!</dialogue>
+    <dialogue lang="jp">カブトムシは おっが やっとじゃっけん</dialogue>
+  </subtitle>
+  <subtitle id="46">
+    <start>0:03:34.750000</start>
+    <end>0:03:36.490000</end>
+    <dialogue lang="en">Just one won't hurt, right?</dialogue>
+    <dialogue lang="jp">（半田）１匹ぐらい いいだろ？ （ケン太）イヤよ</dialogue>
+  </subtitle>
+  <subtitle id="47">
+    <start>0:03:36.490000</start>
+    <end>0:03:37.230000</end>
+    <dialogue lang="en">No!</dialogue>
+    <dialogue lang="jp">おんは カブト100匹やって 虫ベッド作ってやっと</dialogue>
+  </subtitle>
+  <subtitle id="48">
+    <start>0:03:41.540000</start>
+    <end>0:03:42.860000</end>
+    <dialogue lang="en">That's more like a punishment.</dialogue>
+    <dialogue lang="jp">罰ゲームだろ それ</dialogue>
+  </subtitle>
+  <subtitle id="49">
+    <start>0:03:43.300000</start>
+    <end>0:03:46.720000</end>
+    <dialogue lang="en">Besides, I don't wanna give the same present as someone else!</dialogue>
+    <dialogue lang="jp">そんに プレゼントが だっかと一緒っち イヤじゃっけん</dialogue>
+  </subtitle>
+  <subtitle id="50">
+    <start>0:03:46.720000</start>
+    <end>0:03:48.300000</end>
+    <dialogue lang="en">Well, that's true...</dialogue>
+    <dialogue lang="jp">（半田）まあ それは…</dialogue>
+  </subtitle>
+  <subtitle id="51">
+    <start>0:03:48.650000</start>
+    <end>0:03:50.580000</end>
+    <dialogue lang="en">What are you giving her, Ichiro and Jiro?</dialogue>
+    <dialogue lang="jp">一郎(いちろう)と二郎(じろう)は 何をやるんだ？</dialogue>
+  </subtitle>
+  <subtitle id="52">
+    <start>0:03:50.580000</start>
+    <end>0:03:52.400000</end>
+    <dialogue lang="en">Don't make up names for us!</dialogue>
+    <dialogue lang="jp">（ダイスケ）適当な名前つけんな！</dialogue>
+  </subtitle>
+  <subtitle id="53">
+    <start>0:03:52.400000</start>
+    <end>0:03:53.750000</end>
+    <dialogue lang="en">We're givin' her sweets!</dialogue>
+    <dialogue lang="jp">（ユタカ） おったちは お菓子ばやる</dialogue>
+  </subtitle>
+  <subtitle id="54">
+    <start>0:03:54.100000</start>
+    <end>0:03:56.110000</end>
+    <dialogue lang="en">You've all thought on it.</dialogue>
+    <dialogue lang="jp">（半田）みんな 考えてるんだな</dialogue>
+  </subtitle>
+  <subtitle id="55">
+    <start>0:03:56.110000</start>
+    <end>0:03:58.200000</end>
+    <dialogue lang="en">You oughta think hard on it, too, Sensei!</dialogue>
+    <dialogue lang="jp">（ケン太） 先生も ちゃんと考えれよ</dialogue>
+  </subtitle>
+  <subtitle id="56">
+    <start>0:04:00.490000</start>
+    <end>0:04:01.920000</end>
+    <dialogue lang="en">I'll give her a stag beetle!</dialogue>
+    <dialogue lang="jp">クワガタをやろう</dialogue>
+  </subtitle>
+  <subtitle id="57">
+    <start>0:04:02.930000</start>
+    <end>0:04:04.860000</end>
+    <dialogue lang="en">If you can catch that many rhinoceros beetles,</dialogue>
+    <dialogue lang="jp">（ケン太たち）ハァ…</dialogue>
+  </subtitle>
+  <subtitle id="58">
+    <start>0:04:04.860000</start>
+    <end>0:04:06.930000</end>
+    <dialogue lang="en">then a stag beetle should be even easier, right?</dialogue>
+    <dialogue lang="jp">カブトムシが そんなに捕れるなら クワガタは もっと楽だろ？</dialogue>
+  </subtitle>
+  <subtitle id="59">
+    <start>0:04:06.930000</start>
+    <end>0:04:07.910000</end>
+    <dialogue lang="en">Lend me the net.</dialogue>
+    <dialogue lang="jp">網 貸せ</dialogue>
+  </subtitle>
+  <subtitle id="60">
+    <start>0:04:08.510000</start>
+    <end>0:04:11.090000</end>
+    <dialogue lang="en">Bug catchin' ain't as easy as ya think, Sensei.</dialogue>
+    <dialogue lang="jp">（ユタカ）先生っち 虫捕り なめちょるよね</dialogue>
+  </subtitle>
+  <subtitle id="61">
+    <start>0:04:11.090000</start>
+    <end>0:04:13.480000</end>
+    <dialogue lang="en">Heck, life ain't that easy.</dialogue>
+    <dialogue lang="jp">（ダイスケ）虫捕りっちゅうか 人生 なめちょるよね</dialogue>
+  </subtitle>
+  <subtitle id="62">
+    <start>0:04:13.790000</start>
+    <end>0:04:15.220000</end>
+    <dialogue lang="en">You call it easy,</dialogue>
+    <dialogue lang="jp">簡単に言うばって 見つくっとは大変かっぞ</dialogue>
+  </subtitle>
+  <subtitle id="63">
+    <start>0:04:17.280000</start>
+    <end>0:04:20.330000</end>
+    <dialogue lang="en">That's because you're children, isn't it?</dialogue>
+    <dialogue lang="jp">それは お前らが子供だからだろ</dialogue>
+  </subtitle>
+  <subtitle id="64">
+    <start>0:04:20.330000</start>
+    <end>0:04:21.910000</end>
+    <dialogue lang="en">With my adult's height,</dialogue>
+    <dialogue lang="jp">大人の身長があれば 高い位置まで見えるから楽勝</dialogue>
+  </subtitle>
+  <subtitle id="65">
+    <start>0:04:24.330000</start>
+    <end>0:04:26.660000</end>
+    <dialogue lang="en">Sensei, yer gettin' real irritatin'.</dialogue>
+    <dialogue lang="jp">（ユタカ）先生っち いちいちイラつくよね</dialogue>
+  </subtitle>
+  <subtitle id="66">
+    <start>0:04:27.960000</start>
+    <end>0:04:29.240000</end>
+    <dialogue lang="en">Found one right away!</dialogue>
+    <dialogue lang="jp">あっ 早速 発見</dialogue>
+  </subtitle>
+  <subtitle id="67">
+    <start>0:04:32.750000</start>
+    <end>0:04:34.440000</end>
+    <dialogue lang="en">Aww, it's a female.</dialogue>
+    <dialogue lang="jp">なんか メスやん</dialogue>
+  </subtitle>
+  <subtitle id="68">
+    <start>0:04:34.440000</start>
+    <end>0:04:35.300000</end>
+    <dialogue lang="en">Hey!</dialogue>
+    <dialogue lang="jp">おーい 俺が見つけたんだぞ！</dialogue>
+  </subtitle>
+  <subtitle id="69">
+    <start>0:04:35.300000</start>
+    <end>0:04:36.750000</end>
+    <dialogue lang="en">I spotted it!</dialogue>
+    <dialogue lang="jp">モタモタしちょっけんやろ 捕まえるまでが勝負たい</dialogue>
+  </subtitle>
+  <subtitle id="70">
+    <start>0:04:38.720000</start>
+    <end>0:04:40.660000</end>
+    <dialogue lang="en">The battle ain't over 'til the beetle's caught!</dialogue>
+    <dialogue lang="jp">（半田）なに！</dialogue>
+  </subtitle>
+  <subtitle id="71">
+    <start>0:04:40.660000</start>
+    <end>0:04:41.960000</end>
+    <dialogue lang="en">What?!</dialogue>
+    <dialogue lang="jp">カブトムシが １匹も捕れんようじゃ</dialogue>
+  </subtitle>
+  <subtitle id="72">
+    <start>0:04:44.360000</start>
+    <end>0:04:46.380000</end>
+    <dialogue lang="en">Naru's gonna be fed up with ya!</dialogue>
+    <dialogue lang="jp">なるに愛想つかさるっね</dialogue>
+  </subtitle>
+  <subtitle id="73">
+    <start>0:04:48.070000</start>
+    <end>0:04:49.530000</end>
+    <dialogue lang="en">So disappointed...</dialogue>
+    <dialogue lang="jp">プククク…</dialogue>
+  </subtitle>
+  <subtitle id="74">
+    <start>0:04:49.530000</start>
+    <end>0:04:51.600000</end>
+    <dialogue lang="en">I don't exactly care, but I'm still irritated.</dialogue>
+    <dialogue lang="jp">（なる）ガッカリ</dialogue>
+  </subtitle>
+  <subtitle id="75">
+    <start>0:04:51.880000</start>
+    <end>0:04:53.850000</end>
+    <dialogue lang="en">Kenta, there's one over here!</dialogue>
+    <dialogue lang="jp">ケン太 こっちにもおるよ</dialogue>
+  </subtitle>
+  <subtitle id="76">
+    <start>0:04:54.560000</start>
+    <end>0:04:55.510000</end>
+    <dialogue lang="en">I got it!</dialogue>
+    <dialogue lang="jp">（半田）もらった！ （ケン太）おっだって負けん！</dialogue>
+  </subtitle>
+  <subtitle id="77">
+    <start>0:04:55.510000</start>
+    <end>0:04:57.020000</end>
+    <dialogue lang="en">I ain't gonna lose!</dialogue>
+    <dialogue lang="jp">（半田）とうっ！　よし</dialogue>
+  </subtitle>
+  <subtitle id="78">
+    <start>0:04:58.730000</start>
+    <end>0:04:59.230000</end>
+    <dialogue lang="en">Yes!</dialogue>
+    <dialogue lang="jp">ハハッ やった 捕ったぞ カブトムシ…</dialogue>
+  </subtitle>
+  <subtitle id="79">
+    <start>0:05:02.070000</start>
+    <end>0:05:03.900000</end>
+    <dialogue lang="en">Wait, no I didn't! What is this?!</dialogue>
+    <dialogue lang="jp">じゃねー！　なんだ こりゃ</dialogue>
+  </subtitle>
+  <subtitle id="80">
+    <start>0:05:03.900000</start>
+    <end>0:05:06.410000</end>
+    <dialogue lang="en">That's a drone beetle, doofus!</dialogue>
+    <dialogue lang="jp">（ケン太） カナブンでした ダッセえ！</dialogue>
+  </subtitle>
+  <subtitle id="81">
+    <start>0:05:06.690000</start>
+    <end>0:05:09.430000</end>
+    <dialogue lang="en">Sensei can't catch nothin'!</dialogue>
+    <dialogue lang="jp">（ケン太）先生はなんも捕れんばい （ダイスケ）あっち行こうぜ</dialogue>
+  </subtitle>
+  <subtitle id="82">
+    <start>0:05:07.190000</start>
+    <end>0:05:08.180000</end>
+    <dialogue lang="en">Let's go that way!</dialogue>
+    <dialogue lang="jp">（ユタカ）イエーイ！</dialogue>
+  </subtitle>
+  <subtitle id="83">
+    <start>0:05:08.180000</start>
+    <end>0:05:09.430000</end>
+    <dialogue lang="en">Yay!</dialogue>
+    <dialogue lang="jp">（半田）くっ…</dialogue>
+  </subtitle>
+  <subtitle id="84">
+    <start>0:05:10.440000</start>
+    <end>0:05:12.010000</end>
+    <dialogue lang="en">You  kids!</dialogue>
+    <dialogue lang="jp">クッソ ガキども 負けてたまるか</dialogue>
+  </subtitle>
+  <subtitle id="85">
+    <start>0:05:12.010000</start>
+    <end>0:05:13.700000</end>
+    <dialogue lang="en">I won't lose to you!</dialogue>
+    <dialogue lang="jp">（ケン太）あっ オオクワガタ！</dialogue>
+  </subtitle>
+  <subtitle id="86">
+    <start>0:05:14.370000</start>
+    <end>0:05:15.660000</end>
+    <dialogue lang="en">A greater stag beetle!</dialogue>
+    <dialogue lang="jp">ちょっと 高かね</dialogue>
+  </subtitle>
+  <subtitle id="87">
+    <start>0:05:15.930000</start>
+    <end>0:05:17.730000</end>
+    <dialogue lang="en">It's a bit high up.</dialogue>
+    <dialogue lang="jp">よーし フォーメーションベター！</dialogue>
+  </subtitle>
+  <subtitle id="88">
+    <start>0:05:25.440000</start>
+    <end>0:05:27.260000</end>
+    <dialogue lang="en">Almost there...</dialogue>
+    <dialogue lang="jp">（ケン太）あと ちょっと…</dialogue>
+  </subtitle>
+  <subtitle id="89">
+    <start>0:05:28.010000</start>
+    <end>0:05:29.090000</end>
+    <dialogue lang="en">Y-You're heavy...</dialogue>
+    <dialogue lang="jp">うっ お… 重い</dialogue>
+  </subtitle>
+  <subtitle id="90">
+    <start>0:05:29.500000</start>
+    <end>0:05:30.950000</end>
+    <dialogue lang="en">I can't hold up!</dialogue>
+    <dialogue lang="jp">（ダイスケ）ダメだ！ （ケン太･ユタカ）うわあっ</dialogue>
+  </subtitle>
+  <subtitle id="91">
+    <start>0:05:33.510000</start>
+    <end>0:05:35.010000</end>
+    <dialogue lang="en">Ow, ow, ow...</dialogue>
+    <dialogue lang="jp">（ダイスケ）アタタタ… （ユタカ）ケン太は？</dialogue>
+  </subtitle>
+  <subtitle id="92">
+    <start>0:05:35.010000</start>
+    <end>0:05:35.770000</end>
+    <dialogue lang="en">Where's Kenta?</dialogue>
+    <dialogue lang="jp">何やってんだよ お前ら</dialogue>
+  </subtitle>
+  <subtitle id="93">
+    <start>0:05:39.650000</start>
+    <end>0:05:42.110000</end>
+    <dialogue lang="en">Sensei, you didn't leave yet?</dialogue>
+    <dialogue lang="jp">（ケン太）ああ…</dialogue>
+  </subtitle>
+  <subtitle id="94">
+    <start>0:05:42.110000</start>
+    <end>0:05:44.220000</end>
+    <dialogue lang="en">Don't you mean, "Thank you"?</dialogue>
+    <dialogue lang="jp">まずは“ありがとう”だろ？</dialogue>
+  </subtitle>
+  <subtitle id="95">
+    <start>0:05:44.220000</start>
+    <end>0:05:46.280000</end>
+    <dialogue lang="en">I can't leave without catching one.</dialogue>
+    <dialogue lang="jp">１匹も捕らずに帰れるか</dialogue>
+  </subtitle>
+  <subtitle id="96">
+    <start>0:05:46.650000</start>
+    <end>0:05:48.610000</end>
+    <dialogue lang="en">With this, I'm unbeatable.</dialogue>
+    <dialogue lang="jp">これがあれば 鬼に金棒だ</dialogue>
+  </subtitle>
+  <subtitle id="97">
+    <start>0:05:49.190000</start>
+    <end>0:05:51.580000</end>
+    <dialogue lang="en">I can catch any bug, no matter how high up.</dialogue>
+    <dialogue lang="jp">どんな高いとこの虫も捕れるぞ</dialogue>
+  </subtitle>
+  <subtitle id="98">
+    <start>0:05:52.560000</start>
+    <end>0:05:54.750000</end>
+    <dialogue lang="en">All right! I've got my present!</dialogue>
+    <dialogue lang="jp">よーし プレゼント ゲット</dialogue>
+  </subtitle>
+  <subtitle id="99">
+    <start>0:05:57.490000</start>
+    <end>0:05:58.750000</end>
+    <dialogue lang="en">Sensei?</dialogue>
+    <dialogue lang="jp">（ユタカ）先生？</dialogue>
+  </subtitle>
+  <subtitle id="100">
+    <start>0:05:59.200000</start>
+    <end>0:06:00.990000</end>
+    <dialogue lang="en">Can you lend me the net real quick?</dialogue>
+    <dialogue lang="jp">ちょっと 網 貸してくんねえ？</dialogue>
+  </subtitle>
+  <subtitle id="101">
+    <start>0:06:00.990000</start>
+    <end>0:06:03.250000</end>
+    <dialogue lang="en">You came bug catchin' when you won't even touch 'em?!</dialogue>
+    <dialogue lang="jp">お前 触れんとに 虫捕りに来たっか！</dialogue>
+  </subtitle>
+  <subtitle id="102">
+    <start>0:06:03.520000</start>
+    <end>0:06:06.920000</end>
+    <dialogue lang="en">You jerk! It might bite me, or it could carry some weird disease!</dialogue>
+    <dialogue lang="jp">バッカ野郎 かむかもしれねえし 変な病気 持ってるかもだろ</dialogue>
+  </subtitle>
+  <subtitle id="103">
+    <start>0:06:06.920000</start>
+    <end>0:06:08.930000</end>
+    <dialogue lang="en">They don't bite, and don't carry diseases!</dialogue>
+    <dialogue lang="jp">（ケン太）かまんし 病気なんか持っちょらん</dialogue>
+  </subtitle>
+  <subtitle id="104">
+    <start>0:06:08.930000</start>
+    <end>0:06:10.140000</end>
+    <dialogue lang="en">Apologize to the beetle!</dialogue>
+    <dialogue lang="jp">クワガタに謝れ！</dialogue>
+  </subtitle>
+  <subtitle id="105">
+    <start>0:06:10.140000</start>
+    <end>0:06:13.210000</end>
+    <dialogue lang="en">Up close, it's even more gross than I imagined!</dialogue>
+    <dialogue lang="jp">（半田）近くで見たら 気持ち悪(わり)いんだよ 想像以上に</dialogue>
+  </subtitle>
+  <subtitle id="106">
+    <start>0:06:13.210000</start>
+    <end>0:06:15.090000</end>
+    <dialogue lang="en">Why is it so glossy?!</dialogue>
+    <dialogue lang="jp">なんで こんなにツヤツヤしてんの ゴキブリと変わんねえよ</dialogue>
+  </subtitle>
+  <subtitle id="107">
+    <start>0:06:15.090000</start>
+    <end>0:06:16.430000</end>
+    <dialogue lang="en">It's just like a cockroach!</dialogue>
+    <dialogue lang="jp">（ケン太）全然 違うやろ バカ！</dialogue>
+  </subtitle>
+  <subtitle id="108">
+    <start>0:06:18.780000</start>
+    <end>0:06:20.120000</end>
+    <dialogue lang="en">Anyway, give me the net, now!</dialogue>
+    <dialogue lang="jp">（半田）とにかく 網を早く… （ケン太）イヤよ！</dialogue>
+  </subtitle>
+  <subtitle id="109">
+    <start>0:06:20.120000</start>
+    <end>0:06:20.730000</end>
+    <dialogue lang="en">No!</dialogue>
+    <dialogue lang="jp">（半田）ハッ…</dialogue>
+  </subtitle>
+  <subtitle id="110">
+    <start>0:06:28.030000</start>
+    <end>0:06:29.960000</end>
+    <dialogue lang="en">I think it might've bit me!</dialogue>
+    <dialogue lang="jp">（半田）ああっ！ なんか痛い気がする</dialogue>
+  </subtitle>
+  <subtitle id="111">
+    <start>0:06:29.960000</start>
+    <end>0:06:32.190000</end>
+    <dialogue lang="en">Could a guy like this catch bugs?</dialogue>
+    <dialogue lang="jp">（ダイスケ）こん人 ちゃんと 虫 捕らるっとかな？</dialogue>
+  </subtitle>
+  <subtitle id="112">
+    <start>0:06:32.190000</start>
+    <end>0:06:33.120000</end>
+    <dialogue lang="en">No way.</dialogue>
+    <dialogue lang="jp">（ケン太）無理やろ</dialogue>
+  </subtitle>
+  <subtitle id="113">
+    <start>0:06:33.900000</start>
+    <end>0:06:34.990000</end>
+    <dialogue lang="en">Amazin'!</dialogue>
+    <dialogue lang="jp">すごか！　見てみれ ケン太</dialogue>
+  </subtitle>
+  <subtitle id="114">
+    <start>0:06:34.990000</start>
+    <end>0:06:36.040000</end>
+    <dialogue lang="en">Look at this, Kenta!</dialogue>
+    <dialogue lang="jp">（ケン太･ダイスケ） ヘラクレスオオカブトじゃん！</dialogue>
+  </subtitle>
+  <subtitle id="115">
+    <start>0:06:36.360000</start>
+    <end>0:06:38.250000</end>
+    <dialogue lang="en">It's a Hercules beetle!</dialogue>
+    <dialogue lang="jp">（ダイスケ）なんで こがんとこに</dialogue>
+  </subtitle>
+  <subtitle id="116">
+    <start>0:06:38.460000</start>
+    <end>0:06:40.020000</end>
+    <dialogue lang="en">What's one doin' here?</dialogue>
+    <dialogue lang="jp">（ケン太）だっかが 飼っちょったっば逃がしたっじゃろ</dialogue>
+  </subtitle>
+  <subtitle id="117">
+    <start>0:06:42.440000</start>
+    <end>0:06:44.040000</end>
+    <dialogue lang="en">It wouldn't be here otherwise!</dialogue>
+    <dialogue lang="jp">じゃなきゃ おるわけなかし</dialogue>
+  </subtitle>
+  <subtitle id="118">
+    <start>0:06:44.040000</start>
+    <end>0:06:47.260000</end>
+    <dialogue lang="en">Why, is it really that amazing?</dialogue>
+    <dialogue lang="jp">（半田）なんだよ そんなにすごいのか？</dialogue>
+  </subtitle>
+  <subtitle id="119">
+    <start>0:06:46.210000</start>
+    <end>0:06:47.260000</end>
+    <dialogue lang="en">It's real amazin'!</dialogue>
+    <dialogue lang="jp">（ケン太たち）すっげえよ！</dialogue>
+  </subtitle>
+  <subtitle id="120">
+    <start>0:06:47.720000</start>
+    <end>0:06:48.950000</end>
+    <dialogue lang="en">They showed 'em on TV!</dialogue>
+    <dialogue lang="jp">テレビでやりよった ２万円するっち</dialogue>
+  </subtitle>
+  <subtitle id="121">
+    <start>0:06:48.950000</start>
+    <end>0:06:50.400000</end>
+    <dialogue lang="en">They cost 20,000 yen!</dialogue>
+    <dialogue lang="jp">（半田）虫に２万円</dialogue>
+  </subtitle>
+  <subtitle id="122">
+    <start>0:06:50.400000</start>
+    <end>0:06:51.840000</end>
+    <dialogue lang="en">20,000 for a bug?!</dialogue>
+    <dialogue lang="jp">先生 はしごば貸して</dialogue>
+  </subtitle>
+  <subtitle id="123">
+    <start>0:06:52.150000</start>
+    <end>0:06:53.970000</end>
+    <dialogue lang="en">Sensei, lend us the ladder!</dialogue>
+    <dialogue lang="jp">えっ</dialogue>
+  </subtitle>
+  <subtitle id="124">
+    <start>0:06:54.680000</start>
+    <end>0:06:56.100000</end>
+    <dialogue lang="en">We'll join forces to catch it!</dialogue>
+    <dialogue lang="jp">力ば合わせて捕ろや</dialogue>
+  </subtitle>
+  <subtitle id="125">
+    <start>0:06:56.390000</start>
+    <end>0:06:58.890000</end>
+    <dialogue lang="en">Naru'll be thrilled to get such big game!</dialogue>
+    <dialogue lang="jp">あがん大物(おおもん)ばやったら なる 喜ぶばい</dialogue>
+  </subtitle>
+  <subtitle id="126">
+    <start>0:06:58.890000</start>
+    <end>0:07:00.390000</end>
+    <dialogue lang="en">Yeah, really!</dialogue>
+    <dialogue lang="jp">そうやね</dialogue>
+  </subtitle>
+  <subtitle id="127">
+    <start>0:07:00.390000</start>
+    <end>0:07:02.280000</end>
+    <dialogue lang="en">20,000 for a kid's present...</dialogue>
+    <dialogue lang="jp">（半田）ガキのプレゼントに２万…</dialogue>
+  </subtitle>
+  <subtitle id="128">
+    <start>0:07:04.630000</start>
+    <end>0:07:06.260000</end>
+    <dialogue lang="en">Carefully...</dialogue>
+    <dialogue lang="jp">慎重に 慎重にぞ ケン太</dialogue>
+  </subtitle>
+  <subtitle id="129">
+    <start>0:07:06.260000</start>
+    <end>0:07:07.990000</end>
+    <dialogue lang="en">Go carefully, Kenta.</dialogue>
+    <dialogue lang="jp">（ケン太）うん</dialogue>
+  </subtitle>
+  <subtitle id="130">
+    <start>0:07:07.990000</start>
+    <end>0:07:08.490000</end>
+    <dialogue lang="en">Yeah.</dialogue>
+    <dialogue lang="jp">ダメばい 届かん…</dialogue>
+  </subtitle>
+  <subtitle id="131">
+    <start>0:07:12.390000</start>
+    <end>0:07:13.150000</end>
+    <dialogue lang="en">Sensei!</dialogue>
+    <dialogue lang="jp">（ケン太）先生 （半田）俺？　いや 無理無理</dialogue>
+  </subtitle>
+  <subtitle id="132">
+    <start>0:07:13.150000</start>
+    <end>0:07:14.240000</end>
+    <dialogue lang="en">Me?! No, I can't, I can't!</dialogue>
+    <dialogue lang="jp">（ケン太）先生</dialogue>
+  </subtitle>
+  <subtitle id="133">
+    <start>0:07:14.240000</start>
+    <end>0:07:15.200000</end>
+    <dialogue lang="en">Sensei!</dialogue>
+    <dialogue lang="jp">（ダイスケ）はしごば支えとくけん</dialogue>
+  </subtitle>
+  <subtitle id="134">
+    <start>0:07:15.320000</start>
+    <end>0:07:17.330000</end>
+    <dialogue lang="en">We'll hold the ladder!</dialogue>
+    <dialogue lang="jp">（ケン太）なるには 先生が頑張ったっち言うけん</dialogue>
+  </subtitle>
+  <subtitle id="135">
+    <start>0:07:20.200000</start>
+    <end>0:07:22.330000</end>
+    <dialogue lang="en">We'll give her the big game together!</dialogue>
+    <dialogue lang="jp">（ユタカ）一緒に大物ば プレゼントしよう</dialogue>
+  </subtitle>
+  <subtitle id="136">
+    <start>0:07:22.840000</start>
+    <end>0:07:25.840000</end>
+    <dialogue lang="en">We're beggin' ya, Sensei!</dialogue>
+    <dialogue lang="jp">（ケン太たち）先生 頼むよ！</dialogue>
+  </subtitle>
+  <subtitle id="137">
+    <start>0:07:27.510000</start>
+    <end>0:07:29.130000</end>
+    <dialogue lang="en">Sensei, go for it!</dialogue>
+    <dialogue lang="jp">（ケン太）先生 ファイト！</dialogue>
+  </subtitle>
+  <subtitle id="138">
+    <start>0:07:29.130000</start>
+    <end>0:07:30.220000</end>
+    <dialogue lang="en">Go for it!</dialogue>
+    <dialogue lang="jp">（ユタカ）ファイト！ （ダイスケ）ぎばれ 先生</dialogue>
+  </subtitle>
+  <subtitle id="139">
+    <start>0:07:29.560000</start>
+    <end>0:07:31.090000</end>
+    <dialogue lang="en">Keep goin', Sensei!</dialogue>
+    <dialogue lang="jp">気持ち悪い</dialogue>
+  </subtitle>
+  <subtitle id="140">
+    <start>0:07:31.330000</start>
+    <end>0:07:32.910000</end>
+    <dialogue lang="en">It's so gross...</dialogue>
+    <dialogue lang="jp">うっさかねえ さっさと捕れよ</dialogue>
+  </subtitle>
+  <subtitle id="141">
+    <start>0:07:36.350000</start>
+    <end>0:07:37.010000</end>
+    <dialogue lang="en">I caught it!</dialogue>
+    <dialogue lang="jp">捕れたぞ</dialogue>
+  </subtitle>
+  <subtitle id="142">
+    <start>0:07:37.150000</start>
+    <end>0:07:38.270000</end>
+    <dialogue lang="en">We did it!</dialogue>
+    <dialogue lang="jp">（ユタカ･ケン太）やったー！</dialogue>
+  </subtitle>
+  <subtitle id="143">
+    <start>0:07:38.270000</start>
+    <end>0:07:39.430000</end>
+    <dialogue lang="en">Hooray!</dialogue>
+    <dialogue lang="jp">（ダイスケ）バンザーイ！</dialogue>
+  </subtitle>
+  <subtitle id="144">
+    <start>0:07:39.430000</start>
+    <end>0:07:40.610000</end>
+    <dialogue lang="en">Wait! Hey!</dialogue>
+    <dialogue lang="jp">ちょっ おい 手を離すな おっ おい…</dialogue>
+  </subtitle>
+  <subtitle id="145">
+    <start>0:07:39.680000</start>
+    <end>0:07:41.190000</end>
+    <dialogue lang="en">Hercules!</dialogue>
+    <dialogue lang="jp">{\an8}（ケン太たち） ♪ ヘラクレス</dialogue>
+  </subtitle>
+  <subtitle id="146">
+    <start>0:07:40.610000</start>
+    <end>0:07:41.830000</end>
+    <dialogue lang="en">Don't let go!</dialogue>
+    <dialogue lang="jp">ちょっ おい 手を離すな おっ おい…</dialogue>
+  </subtitle>
+  <subtitle id="147">
+    <start>0:07:41.300000</start>
+    <end>0:07:42.270000</end>
+    <dialogue lang="en">Hercules!</dialogue>
+    <dialogue lang="jp">{\an8}♪ ヘラクレス</dialogue>
+  </subtitle>
+  <subtitle id="148">
+    <start>0:07:41.830000</start>
+    <end>0:07:43.270000</end>
+    <dialogue lang="en">H-Hey!</dialogue>
+    <dialogue lang="jp">ちょっ おい 手を離すな おっ おい…</dialogue>
+  </subtitle>
+  <subtitle id="149">
+    <start>0:07:46.990000</start>
+    <end>0:07:49.800000</end>
+    <dialogue lang="en">How can ya fall twice in one day?</dialogue>
+    <dialogue lang="jp">{\an8}（倒れる音）</dialogue>
+  </subtitle>
+  <subtitle id="150">
+    <start>0:07:49.800000</start>
+    <end>0:07:52.630000</end>
+    <dialogue lang="en">Yer clumsiness is a talent in itself.</dialogue>
+    <dialogue lang="jp">（ダイスケ） もはや才能やろ こんドジさは</dialogue>
+  </subtitle>
+  <subtitle id="151">
+    <start>0:07:52.630000</start>
+    <end>0:07:54.820000</end>
+    <dialogue lang="en">I'm never trusting you guys again.</dialogue>
+    <dialogue lang="jp">二度と お前らは信用せん</dialogue>
+  </subtitle>
+  <subtitle id="152">
+    <start>0:07:55.020000</start>
+    <end>0:07:56.200000</end>
+    <dialogue lang="en">So, got the Hercules?!</dialogue>
+    <dialogue lang="jp">そっで へラクレスは？</dialogue>
+  </subtitle>
+  <subtitle id="153">
+    <start>0:07:56.380000</start>
+    <end>0:07:57.170000</end>
+    <dialogue lang="en">Yeah.</dialogue>
+    <dialogue lang="jp">ああ 逃がしちゃいけないと思って しっかり握りしめてた</dialogue>
+  </subtitle>
+  <subtitle id="154">
+    <start>0:07:58.740000</start>
+    <end>0:08:00.570000</end>
+    <dialogue lang="en">so I held on tight to the net.</dialogue>
+    <dialogue lang="jp">（ケン太たち）わーい！</dialogue>
+  </subtitle>
+  <subtitle id="155">
+    <start>0:08:05.390000</start>
+    <end>0:08:06.320000</end>
+    <dialogue lang="en">Huh?</dialogue>
+    <dialogue lang="jp">あれ？　ピクリともせんぞ</dialogue>
+  </subtitle>
+  <subtitle id="156">
+    <start>0:08:06.320000</start>
+    <end>0:08:08.080000</end>
+    <dialogue lang="en">It ain't movin'.</dialogue>
+    <dialogue lang="jp">えっ… えっ？</dialogue>
+  </subtitle>
+  <subtitle id="157">
+    <start>0:08:08.080000</start>
+    <end>0:08:09.240000</end>
+    <dialogue lang="en">It's...</dialogue>
+    <dialogue lang="jp">ちょっと これ 死…</dialogue>
+  </subtitle>
+  <subtitle id="158">
+    <start>0:08:09.240000</start>
+    <end>0:08:09.910000</end>
+    <dialogue lang="en">dead...</dialogue>
+    <dialogue lang="jp">そんなはずは！</dialogue>
+  </subtitle>
+  <subtitle id="159">
+    <start>0:08:09.910000</start>
+    <end>0:08:10.800000</end>
+    <dialogue lang="en">It can't be dead!</dialogue>
+    <dialogue lang="jp">ああ～！</dialogue>
+  </subtitle>
+  <subtitle id="160">
+    <start>0:08:17.260000</start>
+    <end>0:08:18.830000</end>
+    <dialogue lang="en">You smashed it!</dialogue>
+    <dialogue lang="jp">（潰れる音）</dialogue>
+  </subtitle>
+  <subtitle id="161">
+    <start>0:08:18.830000</start>
+    <end>0:08:19.890000</end>
+    <dialogue lang="en">You're kidding!</dialogue>
+    <dialogue lang="jp">（ケン太）潰しちょるじゃん！ （半田）うわあ ウソだ！</dialogue>
+  </subtitle>
+  <subtitle id="162">
+    <start>0:08:20.160000</start>
+    <end>0:08:22.230000</end>
+    <dialogue lang="en">I can't believe you smashed the Hercules!</dialogue>
+    <dialogue lang="jp">（ケン太） ヘラクレスば潰すとか ありえん！</dialogue>
+  </subtitle>
+  <subtitle id="163">
+    <start>0:08:22.230000</start>
+    <end>0:08:23.530000</end>
+    <dialogue lang="en">Stupid, stupid, stupid!</dialogue>
+    <dialogue lang="jp">（ユタカ）バカ バカ バカ！</dialogue>
+  </subtitle>
+  <subtitle id="164">
+    <start>0:08:23.530000</start>
+    <end>0:08:25.070000</end>
+    <dialogue lang="en">Yer dyin' next!</dialogue>
+    <dialogue lang="jp">（ダイスケ）死んで償え！</dialogue>
+  </subtitle>
+  <subtitle id="165">
+    <start>0:08:25.070000</start>
+    <end>0:08:26.060000</end>
+    <dialogue lang="en">You're that upset?</dialogue>
+    <dialogue lang="jp">（半田）そこまで言う？</dialogue>
+  </subtitle>
+  <subtitle id="166">
+    <start>0:08:26.990000</start>
+    <end>0:08:28.690000</end>
+    <dialogue lang="en">You'd say that because of some bug?</dialogue>
+    <dialogue lang="jp">って 虫１匹にそこまで…</dialogue>
+  </subtitle>
+  <subtitle id="167">
+    <start>0:08:30.400000</start>
+    <end>0:08:33.650000</end>
+    <dialogue lang="en">But we were gonna give it to Naru!</dialogue>
+    <dialogue lang="jp">うっ うっ…</dialogue>
+  </subtitle>
+  <subtitle id="168">
+    <start>0:08:35</start>
+    <end>0:08:36.620000</end>
+    <dialogue lang="en">Don't cry! Sheesh!</dialogue>
+    <dialogue lang="jp">（ケン太）うわーん！</dialogue>
+  </subtitle>
+  <subtitle id="169">
+    <start>0:08:36.620000</start>
+    <end>0:08:40.080000</end>
+    <dialogue lang="en">Hurkules</dialogue>
+    <dialogue lang="jp">（半田）泣くな もう！</dialogue>
+  </subtitle>
+  <subtitle id="170">
+    <start>0:08:38.370000</start>
+    <end>0:08:40.080000</end>
+    <dialogue lang="en">I really am sorry.</dialogue>
+    <dialogue lang="jp">（半田）いや ホントに悪かったな</dialogue>
+  </subtitle>
+  <subtitle id="171">
+    <start>0:08:40.440000</start>
+    <end>0:08:41.680000</end>
+    <dialogue lang="en">Don't worry about it.</dialogue>
+    <dialogue lang="jp">もう よかよ</dialogue>
+  </subtitle>
+  <subtitle id="172">
+    <start>0:08:50.830000</start>
+    <end>0:08:52.300000</end>
+    <dialogue lang="en">Here, Sensei!</dialogue>
+    <dialogue lang="jp">（ケン太）はい 先生</dialogue>
+  </subtitle>
+  <subtitle id="173">
+    <start>0:08:52.910000</start>
+    <end>0:08:54.890000</end>
+    <dialogue lang="en">I'll give ya one I caught.</dialogue>
+    <dialogue lang="jp">おっが捕ったやつば １匹やる</dialogue>
+  </subtitle>
+  <subtitle id="174">
+    <start>0:08:54.890000</start>
+    <end>0:08:55.880000</end>
+    <dialogue lang="en">Are you sure?</dialogue>
+    <dialogue lang="jp">いいのか？</dialogue>
+  </subtitle>
+  <subtitle id="175">
+    <start>0:08:55.880000</start>
+    <end>0:08:59.010000</end>
+    <dialogue lang="en">Yeah. 'Cuz you worked hard for Naru's sake.</dialogue>
+    <dialogue lang="jp">ああ なるんために ぎばったっじゃっけん</dialogue>
+  </subtitle>
+  <subtitle id="176">
+    <start>0:08:59.610000</start>
+    <end>0:09:03.150000</end>
+    <dialogue lang="en">I never met an adult who'd play seriously like you, Sensei.</dialogue>
+    <dialogue lang="jp">先生みたいに本気で 遊んでくるっ大人 初めてよ</dialogue>
+  </subtitle>
+  <subtitle id="177">
+    <start>0:09:03.990000</start>
+    <end>0:09:06.600000</end>
+    <dialogue lang="en">I'm gonna have gobs of fun this summer!</dialogue>
+    <dialogue lang="jp">あっ…</dialogue>
+  </subtitle>
+  <subtitle id="178">
+    <start>0:09:07.070000</start>
+    <end>0:09:07.850000</end>
+    <dialogue lang="en">Me, too!</dialogue>
+    <dialogue lang="jp">（ユタカ）おんも！ （ダイスケ）おんも！</dialogue>
+  </subtitle>
+  <subtitle id="179">
+    <start>0:09:07.850000</start>
+    <end>0:09:08.360000</end>
+    <dialogue lang="en">Me, too!</dialogue>
+    <dialogue lang="jp">お前ら…</dialogue>
+  </subtitle>
+  <subtitle id="180">
+    <start>0:09:08.670000</start>
+    <end>0:09:09.820000</end>
+    <dialogue lang="en">You guys...</dialogue>
+    <dialogue lang="jp">あっ えーと…</dialogue>
+  </subtitle>
+  <subtitle id="181">
+    <start>0:09:12.650000</start>
+    <end>0:09:14.110000</end>
+    <dialogue lang="en">Grab it from the back.</dialogue>
+    <dialogue lang="jp">（ケン太）背中のほうから持っとぞ</dialogue>
+  </subtitle>
+  <subtitle id="182">
+    <start>0:09:14.790000</start>
+    <end>0:09:15.450000</end>
+    <dialogue lang="en">Like this?</dialogue>
+    <dialogue lang="jp">（半田）こうか？ （ケン太）そう</dialogue>
+  </subtitle>
+  <subtitle id="183">
+    <start>0:09:15.450000</start>
+    <end>0:09:15.860000</end>
+    <dialogue lang="en">Right!</dialogue>
+    <dialogue lang="jp">やったー 持てたぞ！</dialogue>
+  </subtitle>
+  <subtitle id="184">
+    <start>0:09:18.350000</start>
+    <end>0:09:20.830000</end>
+    <dialogue lang="en">Now I'm one step closer to your level!</dialogue>
+    <dialogue lang="jp">これで また一歩 お前らに近づいたな</dialogue>
+  </subtitle>
+  <subtitle id="185">
+    <start>0:09:21.420000</start>
+    <end>0:09:23.450000</end>
+    <dialogue lang="en">I never had any intention of playing with you guys.</dialogue>
+    <dialogue lang="jp">俺は お前らと 遊んでるつもりはない</dialogue>
+  </subtitle>
+  <subtitle id="186">
+    <start>0:09:23.650000</start>
+    <end>0:09:24.910000</end>
+    <dialogue lang="en">I just hate losing.</dialogue>
+    <dialogue lang="jp">負けたくないだけだ</dialogue>
+  </subtitle>
+  <subtitle id="187">
+    <start>0:09:25.390000</start>
+    <end>0:09:28.150000</end>
+    <dialogue lang="en">I'll be going at it seriously from now on, so be ready!</dialogue>
+    <dialogue lang="jp">これからも本気でいくから 覚悟しとけ！</dialogue>
+  </subtitle>
+  <subtitle id="188">
+    <start>0:09:33.340000</start>
+    <end>0:09:36.070000</end>
+    <dialogue lang="en">What're you doin', dummy?!</dialogue>
+    <dialogue lang="jp">ウギャー！</dialogue>
+  </subtitle>
+  <subtitle id="189">
+    <start>0:09:40.600000</start>
+    <end>0:09:42.310000</end>
+    <dialogue lang="en">Naru's Turning 7</dialogue>
+    <dialogue lang="jp">おっ 俺の家が パーティー仕様になってる？</dialogue>
+  </subtitle>
+  <subtitle id="190">
+    <start>0:09:44.880000</start>
+    <end>0:09:46.520000</end>
+    <dialogue lang="en">Yer late, Sensei!</dialogue>
+    <dialogue lang="jp">先生 遅かよ</dialogue>
+  </subtitle>
+  <subtitle id="191">
+    <start>0:09:46.520000</start>
+    <end>0:09:49.190000</end>
+    <dialogue lang="en">How did you guys get into my house?!</dialogue>
+    <dialogue lang="jp">お前ら どうやって うちに入ったんだ</dialogue>
+  </subtitle>
+  <subtitle id="192">
+    <start>0:09:49.190000</start>
+    <end>0:09:50.610000</end>
+    <dialogue lang="en">You underestimate us.</dialogue>
+    <dialogue lang="jp">甘かねえ</dialogue>
+  </subtitle>
+  <subtitle id="193">
+    <start>0:09:50.610000</start>
+    <end>0:09:53.440000</end>
+    <dialogue lang="en">How many years do ya think we've used this as our base?</dialogue>
+    <dialogue lang="jp">うちらが ここば基地にして 何年たつち思っちょっと？</dialogue>
+  </subtitle>
+  <subtitle id="194">
+    <start>0:09:53.910000</start>
+    <end>0:09:55.650000</end>
+    <dialogue lang="en">I have another of these,</dialogue>
+    <dialogue lang="jp">私 もう１本 持っちょっけん これは返すね</dialogue>
+  </subtitle>
+  <subtitle id="195">
+    <start>0:09:55.650000</start>
+    <end>0:09:56.890000</end>
+    <dialogue lang="en">so you can have this back.</dialogue>
+    <dialogue lang="jp">まさか！</dialogue>
+  </subtitle>
+  <subtitle id="196">
+    <start>0:09:57.420000</start>
+    <end>0:09:58.030000</end>
+    <dialogue lang="en">Is that...</dialogue>
+    <dialogue lang="jp">（美和）合鍵</dialogue>
+  </subtitle>
+  <subtitle id="197">
+    <start>0:09:58.560000</start>
+    <end>0:09:59.660000</end>
+    <dialogue lang="en">A duplicate key!</dialogue>
+    <dialogue lang="jp">金物屋さんで 自転車の合鍵ば作ったら</dialogue>
+  </subtitle>
+  <subtitle id="198">
+    <start>0:10:04.710000</start>
+    <end>0:10:06.120000</end>
+    <dialogue lang="en">I made five of 'em.</dialogue>
+    <dialogue lang="jp">意外と安くてさ ５本も作っちゃった</dialogue>
+  </subtitle>
+  <subtitle id="199">
+    <start>0:10:06.120000</start>
+    <end>0:10:07.540000</end>
+    <dialogue lang="en">I have one, too.</dialogue>
+    <dialogue lang="jp">（タマ）私も持ってるよ</dialogue>
+  </subtitle>
+  <subtitle id="200">
+    <start>0:10:08.190000</start>
+    <end>0:10:10.310000</end>
+    <dialogue lang="en">Huh? It's unlocked today.</dialogue>
+    <dialogue lang="jp">（ヒロシ）あれ？ 今日は鍵 開いちょった</dialogue>
+  </subtitle>
+  <subtitle id="201">
+    <start>0:10:10.310000</start>
+    <end>0:10:11.500000</end>
+    <dialogue lang="en">Hiro! You too?!</dialogue>
+    <dialogue lang="jp">ヒロ お前もか！</dialogue>
+  </subtitle>
+  <subtitle id="202">
+    <start>0:10:11.920000</start>
+    <end>0:10:14.140000</end>
+    <dialogue lang="en">Wait, if there are five of them...</dialogue>
+    <dialogue lang="jp">あれ？　５本あるとしたら もう１本は誰が？</dialogue>
+  </subtitle>
+  <subtitle id="203">
+    <start>0:10:14.530000</start>
+    <end>0:10:15.960000</end>
+    <dialogue lang="en">Who has the last one?</dialogue>
+    <dialogue lang="jp">なくした</dialogue>
+  </subtitle>
+  <subtitle id="204">
+    <start>0:10:16.160000</start>
+    <end>0:10:17.340000</end>
+    <dialogue lang="en">I lost it.</dialogue>
+    <dialogue lang="jp">（半田）殺す！</dialogue>
+  </subtitle>
+  <subtitle id="205">
+    <start>0:10:19.050000</start>
+    <end>0:10:21.280000</end>
+    <dialogue lang="en">Maybe while playin' in the hills out back?</dialogue>
+    <dialogue lang="jp">裏山で遊んだときかな？</dialogue>
+  </subtitle>
+  <subtitle id="206">
+    <start>0:10:21.280000</start>
+    <end>0:10:23.830000</end>
+    <dialogue lang="en">Sensei, do you have a present ready?</dialogue>
+    <dialogue lang="jp">先生 プレゼントは用意した？</dialogue>
+  </subtitle>
+  <subtitle id="207">
+    <start>0:10:23.830000</start>
+    <end>0:10:25.500000</end>
+    <dialogue lang="en">Oh, right, a present...</dialogue>
+    <dialogue lang="jp">あっ そうだ プレゼント</dialogue>
+  </subtitle>
+  <subtitle id="208">
+    <start>0:10:26.710000</start>
+    <end>0:10:28.560000</end>
+    <dialogue lang="en">I brought bubble wrap!</dialogue>
+    <dialogue lang="jp">おっ 私は プチプチば持ってきたよ</dialogue>
+  </subtitle>
+  <subtitle id="209">
+    <start>0:10:28.950000</start>
+    <end>0:10:31.310000</end>
+    <dialogue lang="en">I picked up some peacock feathers.</dialogue>
+    <dialogue lang="jp">私は クジャクの羽根 拾ってきた</dialogue>
+  </subtitle>
+  <subtitle id="210">
+    <start>0:10:31.880000</start>
+    <end>0:10:34.730000</end>
+    <dialogue lang="en">You guys really know what makes Naru tick.</dialogue>
+    <dialogue lang="jp">（半田）お前ら なるのツボ 理解してるな</dialogue>
+  </subtitle>
+  <subtitle id="211">
+    <start>0:10:34.870000</start>
+    <end>0:10:36.850000</end>
+    <dialogue lang="en">You got bubble wrap, Miwa-chan?</dialogue>
+    <dialogue lang="jp">（タマ）美和ちゃん プチプチかあ 迷ったんだよね</dialogue>
+  </subtitle>
+  <subtitle id="212">
+    <start>0:10:36.850000</start>
+    <end>0:10:38.400000</end>
+    <dialogue lang="en">I thought about that, too.</dialogue>
+    <dialogue lang="jp">（美和）いやあ でも そん羽根 よかね</dialogue>
+  </subtitle>
+  <subtitle id="213">
+    <start>0:10:38.400000</start>
+    <end>0:10:39.470000</end>
+    <dialogue lang="en">But those feathers are great!</dialogue>
+    <dialogue lang="jp">（タマ）本当？ いや これさ 道路に落ちてて…</dialogue>
+  </subtitle>
+  <subtitle id="214">
+    <start>0:10:40.560000</start>
+    <end>0:10:41.950000</end>
+    <dialogue lang="en">I shoulda tried lookin' around—</dialogue>
+    <dialogue lang="jp">（ひな）なるが来たよ！</dialogue>
+  </subtitle>
+  <subtitle id="215">
+    <start>0:10:41.950000</start>
+    <end>0:10:43.030000</end>
+    <dialogue lang="en">Naru's coming!</dialogue>
+    <dialogue lang="jp">（美和）ヤバッ みんな 準備して</dialogue>
+  </subtitle>
+  <subtitle id="216">
+    <start>0:10:49.170000</start>
+    <end>0:10:51.350000</end>
+    <dialogue lang="en">This is my first time throwing a birthday party.</dialogue>
+    <dialogue lang="jp">誕生会なんて 初めてだ</dialogue>
+  </subtitle>
+  <subtitle id="217">
+    <start>0:10:51.350000</start>
+    <end>0:10:54.340000</end>
+    <dialogue lang="en">We couldn't have done it without you, Sensei.</dialogue>
+    <dialogue lang="jp">先生がおらんかったら ここまでできんよ</dialogue>
+  </subtitle>
+  <subtitle id="218">
+    <start>0:10:55.030000</start>
+    <end>0:10:55.890000</end>
+    <dialogue lang="en">Me?</dialogue>
+    <dialogue lang="jp">えっ 俺？</dialogue>
+  </subtitle>
+  <subtitle id="219">
+    <start>0:10:55.890000</start>
+    <end>0:10:57.980000</end>
+    <dialogue lang="en">Let's do this every year from now on!</dialogue>
+    <dialogue lang="jp">これからは毎年やろうね ウフフッ</dialogue>
+  </subtitle>
+  <subtitle id="220">
+    <start>0:10:58.810000</start>
+    <end>0:11:00.960000</end>
+    <dialogue lang="en">Did I do something?</dialogue>
+    <dialogue lang="jp">俺が何かしたか？</dialogue>
+  </subtitle>
+  <subtitle id="221">
+    <start>0:11:00.960000</start>
+    <end>0:11:03.350000</end>
+    <dialogue lang="en">Shoot off the cracker when she comes in.</dialogue>
+    <dialogue lang="jp">なるが入ってきたらクラッカーね</dialogue>
+  </subtitle>
+  <subtitle id="222">
+    <start>0:11:05.060000</start>
+    <end>0:11:05.560000</end>
+    <dialogue lang="en">Hey!</dialogue>
+    <dialogue lang="jp">（半田）おっ… ハッ… （美和）ちょっ！</dialogue>
+  </subtitle>
+  <subtitle id="223">
+    <start>0:11:12.670000</start>
+    <end>0:11:13.590000</end>
+    <dialogue lang="en">Naru!</dialogue>
+    <dialogue lang="jp">（美和）あっ…</dialogue>
+  </subtitle>
+  <subtitle id="224">
+    <start>0:11:13.590000</start>
+    <end>0:11:14.560000</end>
+    <dialogue lang="en">Happy Birthday!</dialogue>
+    <dialogue lang="jp">なる おめでとう！</dialogue>
+  </subtitle>
+  <subtitle id="225">
+    <start>0:11:15.450000</start>
+    <end>0:11:17.130000</end>
+    <dialogue lang="en">Happy Birthday!</dialogue>
+    <dialogue lang="jp">（クラッカーが鳴る音）</dialogue>
+  </subtitle>
+  <subtitle id="226">
+    <start>0:11:17.130000</start>
+    <end>0:11:19.570000</end>
+    <dialogue lang="en">Oh, that's right! It's my birthday!</dialogue>
+    <dialogue lang="jp">（一同）おめでとう！</dialogue>
+  </subtitle>
+  <subtitle id="227">
+    <start>0:11:19.570000</start>
+    <end>0:11:21.790000</end>
+    <dialogue lang="en">First, your present from Sensei!</dialogue>
+    <dialogue lang="jp">まずは 先生からプレゼント</dialogue>
+  </subtitle>
+  <subtitle id="228">
+    <start>0:11:19.570000</start>
+    <end>0:11:23.200000</end>
+    <dialogue lang="en">Naru's Turning 7</dialogue>
+    <dialogue lang="jp">あっ そっか 誕生日だ！</dialogue>
+  </subtitle>
+  <subtitle id="229">
+    <start>0:11:21.790000</start>
+    <end>0:11:23.200000</end>
+    <dialogue lang="en">Uh, no, I'll give mine later!</dialogue>
+    <dialogue lang="jp">いや 俺はあとで</dialogue>
+  </subtitle>
+  <subtitle id="230">
+    <start>0:11:23.610000</start>
+    <end>0:11:24.990000</end>
+    <dialogue lang="en">Don't say that!</dialogue>
+    <dialogue lang="jp">（美和）そがんこ 言わんでさ</dialogue>
+  </subtitle>
+  <subtitle id="231">
+    <start>0:11:24.990000</start>
+    <end>0:11:26.950000</end>
+    <dialogue lang="en">Hey! Stop it!</dialogue>
+    <dialogue lang="jp">（半田）ちょっ やめろって おい</dialogue>
+  </subtitle>
+  <subtitle id="232">
+    <start>0:11:26.950000</start>
+    <end>0:11:28.420000</end>
+    <dialogue lang="en">Got it!</dialogue>
+    <dialogue lang="jp">（美和）取った！ （半田）うわー！</dialogue>
+  </subtitle>
+  <subtitle id="233">
+    <start>0:11:29.560000</start>
+    <end>0:11:30.990000</end>
+    <dialogue lang="en">Here! From Sensei.</dialogue>
+    <dialogue lang="jp">（美和）はい 先生から</dialogue>
+  </subtitle>
+  <subtitle id="234">
+    <start>0:11:34.060000</start>
+    <end>0:11:35.840000</end>
+    <dialogue lang="en">Ticket to do anything you say</dialogue>
+    <dialogue lang="jp">わあっ！</dialogue>
+  </subtitle>
+  <subtitle id="235">
+    <start>0:11:38.800000</start>
+    <end>0:11:41.310000</end>
+    <dialogue lang="en">What is this?! A grade schooler's Mother's Day present?!</dialogue>
+    <dialogue lang="jp">（美和）プッ アハハッ なん これ 小学生の母の日？</dialogue>
+  </subtitle>
+  <subtitle id="236">
+    <start>0:11:41.310000</start>
+    <end>0:11:43.310000</end>
+    <dialogue lang="en">And there's just one! So stingy!</dialogue>
+    <dialogue lang="jp">（タマ）しかも１枚って せこい</dialogue>
+  </subtitle>
+  <subtitle id="237">
+    <start>0:11:43.310000</start>
+    <end>0:11:44.300000</end>
+    <dialogue lang="en">Listen, you guys...</dialogue>
+    <dialogue lang="jp">（半田）お前らな…</dialogue>
+  </subtitle>
+  <subtitle id="238">
+    <start>0:11:45.730000</start>
+    <end>0:11:47.960000</end>
+    <dialogue lang="en">Naru, it's okay to be mad!</dialogue>
+    <dialogue lang="jp">なる 怒ってよかっぞ</dialogue>
+  </subtitle>
+  <subtitle id="239">
+    <start>0:11:52.190000</start>
+    <end>0:11:54.150000</end>
+    <dialogue lang="en">Ticket to do anything you say One time</dialogue>
+    <dialogue lang="jp">やった～！</dialogue>
+  </subtitle>
+  <subtitle id="240">
+    <start>0:11:52.190000</start>
+    <end>0:11:54.660000</end>
+    <dialogue lang="en">Yes!</dialogue>
+    <dialogue lang="jp">うお～！</dialogue>
+  </subtitle>
+  <subtitle id="241">
+    <start>0:11:54.660000</start>
+    <end>0:11:57.050000</end>
+    <dialogue lang="en">I'm frightened by how thrilled you sound...</dialogue>
+    <dialogue lang="jp">（半田） そんなに喜ばれたら 怖いんだが</dialogue>
+  </subtitle>
+  <subtitle id="242">
+    <start>0:11:57.050000</start>
+    <end>0:11:58.870000</end>
+    <dialogue lang="en">Isn't that great, Naru?</dialogue>
+    <dialogue lang="jp">（ひな）よかったね なる</dialogue>
+  </subtitle>
+  <subtitle id="243">
+    <start>0:12:05.600000</start>
+    <end>0:12:10.620000</end>
+    <dialogue lang="en">I keep watering these sunflowers, even though I have no idea who planted them or when.</dialogue>
+    <dialogue lang="jp">いつ誰が植えたかも分からない ひまわりに</dialogue>
+  </subtitle>
+  <subtitle id="244">
+    <start>0:12:11.640000</start>
+    <end>0:12:14.760000</end>
+    <dialogue lang="en">If I left them alone, they'd probably grow up fine on their own...</dialogue>
+    <dialogue lang="jp">どうせ 放っておいても 勝手に成長するんだろうけど</dialogue>
+  </subtitle>
+  <subtitle id="245">
+    <start>0:12:15.940000</start>
+    <end>0:12:17.940000</end>
+    <dialogue lang="en">Climbing up there again?</dialogue>
+    <dialogue lang="jp">わあっ！</dialogue>
+  </subtitle>
+  <subtitle id="246">
+    <start>0:12:17.940000</start>
+    <end>0:12:19.340000</end>
+    <dialogue lang="en">You know that's dangerous.</dialogue>
+    <dialogue lang="jp">また そんなとこ登って 危ないだろ？</dialogue>
+  </subtitle>
+  <subtitle id="247">
+    <start>0:12:19.340000</start>
+    <end>0:12:21.410000</end>
+    <dialogue lang="en">Grampa's goin' on a grave visit.</dialogue>
+    <dialogue lang="jp">じいちゃんが 墓参り行くけん 先生ば連れてこいちた</dialogue>
+  </subtitle>
+  <subtitle id="248">
+    <start>0:12:23.500000</start>
+    <end>0:12:24.550000</end>
+    <dialogue lang="en">Grave visit?</dialogue>
+    <dialogue lang="jp">墓参り？</dialogue>
+  </subtitle>
+  <subtitle id="249">
+    <start>0:12:24.810000</start>
+    <end>0:12:25.570000</end>
+    <dialogue lang="en">Yep!</dialogue>
+    <dialogue lang="jp">（なる）うん！</dialogue>
+  </subtitle>
+  <subtitle id="250">
+    <start>0:12:29.150000</start>
+    <end>0:12:32</end>
+    <dialogue lang="en">Sensei! This way, this way!</dialogue>
+    <dialogue lang="jp">先生 こっちこっちー！</dialogue>
+  </subtitle>
+  <subtitle id="251">
+    <start>0:12:31.150000</start>
+    <end>0:12:32</end>
+    <dialogue lang="en">Oh, right...</dialogue>
+    <dialogue lang="jp">（半田）そうか もう お盆の時期か</dialogue>
+  </subtitle>
+  <subtitle id="252">
+    <start>0:12:32</start>
+    <end>0:12:33.800000</end>
+    <dialogue lang="en">It's already Obon season...</dialogue>
+    <dialogue lang="jp">（耕作(こうさく)）先生！</dialogue>
+  </subtitle>
+  <subtitle id="253">
+    <start>0:12:35.840000</start>
+    <end>0:12:37.860000</end>
+    <dialogue lang="en">Over 'ere, Sensei!</dialogue>
+    <dialogue lang="jp">（耕作）先生 こっちばい よう来てくれたね</dialogue>
+  </subtitle>
+  <subtitle id="254">
+    <start>0:12:37.860000</start>
+    <end>0:12:39.580000</end>
+    <dialogue lang="en">Good of ya to come!</dialogue>
+    <dialogue lang="jp">いいんですか？ 他人の俺が墓に入って</dialogue>
+  </subtitle>
+  <subtitle id="255">
+    <start>0:12:42.680000</start>
+    <end>0:12:45.180000</end>
+    <dialogue lang="en">I hafta go to the fields,</dialogue>
+    <dialogue lang="jp">オィは畑に行かんばじゃそい</dialogue>
+  </subtitle>
+  <subtitle id="256">
+    <start>0:12:45.180000</start>
+    <end>0:12:48.630000</end>
+    <dialogue lang="en">so I was thinkin' I'd have you keep vigil over the gravesite flame.</dialogue>
+    <dialogue lang="jp">墓ん火の番ば してもらおうかち思うてな</dialogue>
+  </subtitle>
+  <subtitle id="257">
+    <start>0:12:50.280000</start>
+    <end>0:12:51.310000</end>
+    <dialogue lang="en">Firecrackers?!</dialogue>
+    <dialogue lang="jp">{\an8}（爆竹の音）</dialogue>
+  </subtitle>
+  <subtitle id="258">
+    <start>0:12:51.310000</start>
+    <end>0:12:52.800000</end>
+    <dialogue lang="en">That's gotta be bad omen!</dialogue>
+    <dialogue lang="jp">爆竹？　なんて罰当たりな</dialogue>
+  </subtitle>
+  <subtitle id="259">
+    <start>0:12:53.890000</start>
+    <end>0:12:55.920000</end>
+    <dialogue lang="en">That's normal 'round here!</dialogue>
+    <dialogue lang="jp">ハッハッハッ</dialogue>
+  </subtitle>
+  <subtitle id="260">
+    <start>0:12:55.920000</start>
+    <end>0:12:57.080000</end>
+    <dialogue lang="en">Huh, a custom?</dialogue>
+    <dialogue lang="jp">（半田）えっ 風習？</dialogue>
+  </subtitle>
+  <subtitle id="261">
+    <start>0:12:57.380000</start>
+    <end>0:12:59.210000</end>
+    <dialogue lang="en">Well, take care of the rest!</dialogue>
+    <dialogue lang="jp">じゃあ あとは任せたばい</dialogue>
+  </subtitle>
+  <subtitle id="262">
+    <start>0:12:59.210000</start>
+    <end>0:13:01.080000</end>
+    <dialogue lang="en">See you later!</dialogue>
+    <dialogue lang="jp">（なる）いってらっしゃーい</dialogue>
+  </subtitle>
+  <subtitle id="263">
+    <start>0:13:01.080000</start>
+    <end>0:13:02.330000</end>
+    <dialogue lang="en">You're going already?</dialogue>
+    <dialogue lang="jp">（半田）えっ もう行くんですか？</dialogue>
+  </subtitle>
+  <subtitle id="264">
+    <start>0:13:02.330000</start>
+    <end>0:13:05.730000</end>
+    <dialogue lang="en">Naru knows the ropes, so just do as she says!</dialogue>
+    <dialogue lang="jp">なるは 慣れちょっけん なるの言うごてせればよか</dialogue>
+  </subtitle>
+  <subtitle id="265">
+    <start>0:13:06.390000</start>
+    <end>0:13:08.110000</end>
+    <dialogue lang="en">Now, off to the fields!</dialogue>
+    <dialogue lang="jp">（半田）ええ… （耕作）さっ 畑 畑</dialogue>
+  </subtitle>
+  <subtitle id="266">
+    <start>0:13:08.110000</start>
+    <end>0:13:09.550000</end>
+    <dialogue lang="en">He just dumped it on me...</dialogue>
+    <dialogue lang="jp">丸投げ…</dialogue>
+  </subtitle>
+  <subtitle id="267">
+    <start>0:13:09.550000</start>
+    <end>0:13:13.520000</end>
+    <dialogue lang="en">Kotoishi Family Grave</dialogue>
+    <dialogue lang="jp">墓参りなんて ちゃんと やったことないからな</dialogue>
+  </subtitle>
+  <subtitle id="268">
+    <start>0:13:14.310000</start>
+    <end>0:13:16.530000</end>
+    <dialogue lang="en">I don't know who's resting here,</dialogue>
+    <dialogue lang="jp">誰が眠ってるか知りませんが どうぞ 一日よろしくお願いします</dialogue>
+  </subtitle>
+  <subtitle id="269">
+    <start>0:13:20.100000</start>
+    <end>0:13:22.390000</end>
+    <dialogue lang="en">Sensei, first ya gotta set the lan'ern.</dialogue>
+    <dialogue lang="jp">先生 まずは トロ立てせんば</dialogue>
+  </subtitle>
+  <subtitle id="270">
+    <start>0:13:22.390000</start>
+    <end>0:13:23.030000</end>
+    <dialogue lang="en">The "lan'ern"?</dialogue>
+    <dialogue lang="jp">トロ立て？</dialogue>
+  </subtitle>
+  <subtitle id="271">
+    <start>0:13:23.280000</start>
+    <end>0:13:24.210000</end>
+    <dialogue lang="en">See, those!</dialogue>
+    <dialogue lang="jp">（なる）ほら あれ</dialogue>
+  </subtitle>
+  <subtitle id="272">
+    <start>0:13:24.210000</start>
+    <end>0:13:25.630000</end>
+    <dialogue lang="en">Ah, paper lanterns.</dialogue>
+    <dialogue lang="jp">（半田）ああ 提灯(ちょうちん)か</dialogue>
+  </subtitle>
+  <subtitle id="273">
+    <start>0:13:25.630000</start>
+    <end>0:13:26.400000</end>
+    <dialogue lang="en">Lan'ern!</dialogue>
+    <dialogue lang="jp">（なる）トロ！</dialogue>
+  </subtitle>
+  <subtitle id="274">
+    <start>0:13:26.770000</start>
+    <end>0:13:28.980000</end>
+    <dialogue lang="en">Now that you mention it, all the graves have one.</dialogue>
+    <dialogue lang="jp">そういや どの家も飾ってるな</dialogue>
+  </subtitle>
+  <subtitle id="275">
+    <start>0:13:29.550000</start>
+    <end>0:13:32.660000</end>
+    <dialogue lang="en">Until this flame goes out, we mustn't leave the grave.</dialogue>
+    <dialogue lang="jp">こっの火が消ゆっまで 墓から離れたらダメちた</dialogue>
+  </subtitle>
+  <subtitle id="276">
+    <start>0:13:32.810000</start>
+    <end>0:13:35.450000</end>
+    <dialogue lang="en">These are candles that burn for two hours.</dialogue>
+    <dialogue lang="jp">これ ２時間 燃えるロウソクだろ そんなに長時間 ここにいるのか？</dialogue>
+  </subtitle>
+  <subtitle id="277">
+    <start>0:13:37.940000</start>
+    <end>0:13:39.460000</end>
+    <dialogue lang="en">I got these in case we get bored!</dialogue>
+    <dialogue lang="jp">暇になったら こっがある</dialogue>
+  </subtitle>
+  <subtitle id="278">
+    <start>0:13:39.850000</start>
+    <end>0:13:41.500000</end>
+    <dialogue lang="en">So you do that, too...</dialogue>
+    <dialogue lang="jp">（半田）お前もやるのか</dialogue>
+  </subtitle>
+  <subtitle id="279">
+    <start>0:13:41.660000</start>
+    <end>0:13:43.920000</end>
+    <dialogue lang="en">Mind if I pay a visit, too?</dialogue>
+    <dialogue lang="jp">（やすば）参らしてもらおよな</dialogue>
+  </subtitle>
+  <subtitle id="280">
+    <start>0:13:43.920000</start>
+    <end>0:13:45.430000</end>
+    <dialogue lang="en">Oh! Yasuba!</dialogue>
+    <dialogue lang="jp">あっ やすば！</dialogue>
+  </subtitle>
+  <subtitle id="281">
+    <start>0:13:45.850000</start>
+    <end>0:13:47.970000</end>
+    <dialogue lang="en">I came to offer an incense stick.</dialogue>
+    <dialogue lang="jp">線香ば あげさせて</dialogue>
+  </subtitle>
+  <subtitle id="282">
+    <start>0:13:48.750000</start>
+    <end>0:13:52.460000</end>
+    <dialogue lang="en">I was friends with Naru's gramma, y'know.</dialogue>
+    <dialogue lang="jp">なるのばあちゃんとは 友達じゃったけんね</dialogue>
+  </subtitle>
+  <subtitle id="283">
+    <start>0:13:57.580000</start>
+    <end>0:14:02.270000</end>
+    <dialogue lang="en">Somehow or other, I managed to live through this past year.</dialogue>
+    <dialogue lang="jp">今年も どげんかこげんか 生きてこれたよなあ</dialogue>
+  </subtitle>
+  <subtitle id="284">
+    <start>0:14:02.690000</start>
+    <end>0:14:03.860000</end>
+    <dialogue lang="en">That's kinda depressing...</dialogue>
+    <dialogue lang="jp">（半田）なんか重いな</dialogue>
+  </subtitle>
+  <subtitle id="285">
+    <start>0:14:04.560000</start>
+    <end>0:14:05.960000</end>
+    <dialogue lang="en">There, much obliged.</dialogue>
+    <dialogue lang="jp">はい おおきん 先生も暑かとけ大変かねえ</dialogue>
+  </subtitle>
+  <subtitle id="286">
+    <start>0:14:09.040000</start>
+    <end>0:14:11.470000</end>
+    <dialogue lang="en">With an outsider like me here,</dialogue>
+    <dialogue lang="jp">いえ 他人の俺がいたんじゃ</dialogue>
+  </subtitle>
+  <subtitle id="287">
+    <start>0:14:11.470000</start>
+    <end>0:14:13.870000</end>
+    <dialogue lang="en">Naru's grandma probably can't rest easy.</dialogue>
+    <dialogue lang="jp">なるのばあちゃんが 落ち着かないですよね</dialogue>
+  </subtitle>
+  <subtitle id="288">
+    <start>0:14:14.090000</start>
+    <end>0:14:16.080000</end>
+    <dialogue lang="en">That ain't so.</dialogue>
+    <dialogue lang="jp">（やすば）そがんことなか</dialogue>
+  </subtitle>
+  <subtitle id="289">
+    <start>0:14:16.520000</start>
+    <end>0:14:18.890000</end>
+    <dialogue lang="en">Just look at this candle.</dialogue>
+    <dialogue lang="jp">見てみれ こんロウソク 火ん 上下に揺れちょるやろ？</dialogue>
+  </subtitle>
+  <subtitle id="290">
+    <start>0:14:21.550000</start>
+    <end>0:14:22.850000</end>
+    <dialogue lang="en">Yeah, it is...</dialogue>
+    <dialogue lang="jp">（半田）ホントだ</dialogue>
+  </subtitle>
+  <subtitle id="291">
+    <start>0:14:22.850000</start>
+    <end>0:14:26.090000</end>
+    <dialogue lang="en">That means her gramma's smilin' down on ya.</dialogue>
+    <dialogue lang="jp">（やすば）ばあちゃんが 笑(わろ)て見ちょるちことばい</dialogue>
+  </subtitle>
+  <subtitle id="292">
+    <start>0:14:26.090000</start>
+    <end>0:14:28.060000</end>
+    <dialogue lang="en">Have faith in yerself.</dialogue>
+    <dialogue lang="jp">自信 持ちなはれ</dialogue>
+  </subtitle>
+  <subtitle id="293">
+    <start>0:14:31.030000</start>
+    <end>0:14:34.200000</end>
+    <dialogue lang="en">Guess I'll do my best, if it'll make the master of this grave happy.</dialogue>
+    <dialogue lang="jp">墓の主が喜んでくれるなら 頑張ってみるか</dialogue>
+  </subtitle>
+  <subtitle id="294">
+    <start>0:14:34.200000</start>
+    <end>0:14:35.270000</end>
+    <dialogue lang="en">Ayup!</dialogue>
+    <dialogue lang="jp">およ！</dialogue>
+  </subtitle>
+  <subtitle id="295">
+    <start>0:14:36.780000</start>
+    <end>0:14:37.480000</end>
+    <dialogue lang="en">Do you have a lighter?</dialogue>
+    <dialogue lang="jp">（半田）ライター あるか？</dialogue>
+  </subtitle>
+  <subtitle id="296">
+    <start>0:14:37.840000</start>
+    <end>0:14:38.880000</end>
+    <dialogue lang="en">I have matches.</dialogue>
+    <dialogue lang="jp">マッチなら</dialogue>
+  </subtitle>
+  <subtitle id="297">
+    <start>0:14:40.070000</start>
+    <end>0:14:40.900000</end>
+    <dialogue lang="en">Fireworks again?!</dialogue>
+    <dialogue lang="jp">（花火の破裂音） （２人）ハッ！</dialogue>
+  </subtitle>
+  <subtitle id="298">
+    <start>0:14:42.130000</start>
+    <end>0:14:43.170000</end>
+    <dialogue lang="en">They're parachutes!</dialogue>
+    <dialogue lang="jp">おっ パラシュートか</dialogue>
+  </subtitle>
+  <subtitle id="299">
+    <start>0:14:43.170000</start>
+    <end>0:14:44.110000</end>
+    <dialogue lang="en">Fallin' umbrellas!</dialogue>
+    <dialogue lang="jp">（なる）落下傘！</dialogue>
+  </subtitle>
+  <subtitle id="300">
+    <start>0:14:44.640000</start>
+    <end>0:14:46.780000</end>
+    <dialogue lang="en">Hey, they're coming this way!</dialogue>
+    <dialogue lang="jp">おいおい こっちに落ちてくるぞ</dialogue>
+  </subtitle>
+  <subtitle id="301">
+    <start>0:14:52.410000</start>
+    <end>0:14:55.430000</end>
+    <dialogue lang="en">I did it! Midair catch!</dialogue>
+    <dialogue lang="jp">やったぜ 空中キャッチ！</dialogue>
+  </subtitle>
+  <subtitle id="302">
+    <start>0:14:55.430000</start>
+    <end>0:14:56.700000</end>
+    <dialogue lang="en">That's our Miwa-chan!</dialogue>
+    <dialogue lang="jp">さすが 美和ちゃん 人の迷惑なんて考えない暴走っぷり</dialogue>
+  </subtitle>
+  <subtitle id="303">
+    <start>0:14:59.460000</start>
+    <end>0:15:01.900000</end>
+    <dialogue lang="en">Man, it's hard to run in a yukata.</dialogue>
+    <dialogue lang="jp">（美和）いやあ 浴衣は走りにくかね</dialogue>
+  </subtitle>
+  <subtitle id="304">
+    <start>0:15:01.900000</start>
+    <end>0:15:03.330000</end>
+    <dialogue lang="en">I wanna do it, too!</dialogue>
+    <dialogue lang="jp">（なる）なるも やりたか！</dialogue>
+  </subtitle>
+  <subtitle id="305">
+    <start>0:15:03.330000</start>
+    <end>0:15:06.330000</end>
+    <dialogue lang="en">Sorry, those were the last fallin' umbrellas.</dialogue>
+    <dialogue lang="jp">（美和）ごめん 落下傘は 今のでラストやった</dialogue>
+  </subtitle>
+  <subtitle id="306">
+    <start>0:15:06.330000</start>
+    <end>0:15:07.590000</end>
+    <dialogue lang="en">Let's do somethin' else.</dialogue>
+    <dialogue lang="jp">別のやつばやろ</dialogue>
+  </subtitle>
+  <subtitle id="307">
+    <start>0:15:10.290000</start>
+    <end>0:15:13.160000</end>
+    <dialogue lang="en">C'mon, Sensei, give us some reaction!</dialogue>
+    <dialogue lang="jp">（美和）ちょっと 先生 なんか反応ばしてよ</dialogue>
+  </subtitle>
+  <subtitle id="308">
+    <start>0:15:13.160000</start>
+    <end>0:15:14.500000</end>
+    <dialogue lang="en">You can't just ignore us!</dialogue>
+    <dialogue lang="jp">（タマ）無視だけはダメだよ 反則 反則</dialogue>
+  </subtitle>
+  <subtitle id="309">
+    <start>0:15:14.500000</start>
+    <end>0:15:15.800000</end>
+    <dialogue lang="en">That's foul play!</dialogue>
+    <dialogue lang="jp">（半田）ん…</dialogue>
+  </subtitle>
+  <subtitle id="310">
+    <start>0:15:18.110000</start>
+    <end>0:15:19.670000</end>
+    <dialogue lang="en">He's telling us to help?</dialogue>
+    <dialogue lang="jp">（美和･タマ）手伝えってか</dialogue>
+  </subtitle>
+  <subtitle id="311">
+    <start>0:15:20.240000</start>
+    <end>0:15:22.630000</end>
+    <dialogue lang="en">Fine, we'll help, we'll help!</dialogue>
+    <dialogue lang="jp">（美和）分かったよ 手伝う 手伝うけん</dialogue>
+  </subtitle>
+  <subtitle id="312">
+    <start>0:15:22.630000</start>
+    <end>0:15:24.360000</end>
+    <dialogue lang="en">Stop giving us the evil eye!</dialogue>
+    <dialogue lang="jp">（タマ）その目 やめて 呪われそう</dialogue>
+  </subtitle>
+  <subtitle id="313">
+    <start>0:15:26.140000</start>
+    <end>0:15:28.510000</end>
+    <dialogue lang="en">So this is different from Obon in Tokyo?</dialogue>
+    <dialogue lang="jp">（タマ）やっぱり 都会のお盆とは違うの？</dialogue>
+  </subtitle>
+  <subtitle id="314">
+    <start>0:15:28.510000</start>
+    <end>0:15:29.840000</end>
+    <dialogue lang="en">Completely different.</dialogue>
+    <dialogue lang="jp">全然 違う</dialogue>
+  </subtitle>
+  <subtitle id="315">
+    <start>0:15:30.160000</start>
+    <end>0:15:32.230000</end>
+    <dialogue lang="en">For starters, we don't visit in the evening,</dialogue>
+    <dialogue lang="jp">そもそも 夕方には参らないし 生米を供えたりしない</dialogue>
+  </subtitle>
+  <subtitle id="316">
+    <start>0:15:32.230000</start>
+    <end>0:15:34.090000</end>
+    <dialogue lang="en">and we don't offer uncooked rice.</dialogue>
+    <dialogue lang="jp">花火しないし 浴衣着ない 提灯 並べない</dialogue>
+  </subtitle>
+  <subtitle id="317">
+    <start>0:15:37.540000</start>
+    <end>0:15:38.450000</end>
+    <dialogue lang="en">You don't?!</dialogue>
+    <dialogue lang="jp">（タマ）えっ！ （美和）せんと？</dialogue>
+  </subtitle>
+  <subtitle id="318">
+    <start>0:15:38.450000</start>
+    <end>0:15:43.460000</end>
+    <dialogue lang="en">Kotoishi Family Grave</dialogue>
+    <dialogue lang="jp">（半田）墓石の文字も 金色って おかしいだろ</dialogue>
+  </subtitle>
+  <subtitle id="319">
+    <start>0:15:41.510000</start>
+    <end>0:15:43.460000</end>
+    <dialogue lang="en">Yer kiddin'! They ain't gold everywhere in Japan?!</dialogue>
+    <dialogue lang="jp">（美和）ウソ！ 全国 金色じゃなか？</dialogue>
+  </subtitle>
+  <subtitle id="320">
+    <start>0:15:43.830000</start>
+    <end>0:15:47.260000</end>
+    <dialogue lang="en">Well, since I rarely make grave visits,</dialogue>
+    <dialogue lang="jp">まあ 俺もめったに 墓参りなんてしないから</dialogue>
+  </subtitle>
+  <subtitle id="321">
+    <start>0:15:47.260000</start>
+    <end>0:15:50.210000</end>
+    <dialogue lang="en">I can't exactly talk like I'm an expert on the customs.</dialogue>
+    <dialogue lang="jp">風習を偉そうに 語ったりできないけどな</dialogue>
+  </subtitle>
+  <subtitle id="322">
+    <start>0:15:50.210000</start>
+    <end>0:15:54.080000</end>
+    <dialogue lang="en">Well, we only come to visit graves during Obon, too.</dialogue>
+    <dialogue lang="jp">それば言ったら うちらだって 墓に来っとは お盆だけよね</dialogue>
+  </subtitle>
+  <subtitle id="323">
+    <start>0:15:54.080000</start>
+    <end>0:15:57.450000</end>
+    <dialogue lang="en">And we really only come to set off fireworks.</dialogue>
+    <dialogue lang="jp">しかも 花火がしたくて 来てるようなもんだし</dialogue>
+  </subtitle>
+  <subtitle id="324">
+    <start>0:15:57.450000</start>
+    <end>0:15:59.350000</end>
+    <dialogue lang="en">Oh, and to see the onde.</dialogue>
+    <dialogue lang="jp">あと オンデ 見に来たり</dialogue>
+  </subtitle>
+  <subtitle id="325">
+    <start>0:15:59.350000</start>
+    <end>0:16:00.280000</end>
+    <dialogue lang="en">Onde?</dialogue>
+    <dialogue lang="jp">オンデ？</dialogue>
+  </subtitle>
+  <subtitle id="326">
+    <start>0:16:00.280000</start>
+    <end>0:16:01.630000</end>
+    <dialogue lang="en">Pardon me...</dialogue>
+    <dialogue lang="jp">（オンデ長）すみません （半田）ん？　えっ！</dialogue>
+  </subtitle>
+  <subtitle id="327">
+    <start>0:16:03.510000</start>
+    <end>0:16:06.190000</end>
+    <dialogue lang="en">D'ya mind if we proceed past your gravesite?</dialogue>
+    <dialogue lang="jp">（オンデ長）墓ん前ば 通してもらってよかですか？</dialogue>
+  </subtitle>
+  <subtitle id="328">
+    <start>0:16:06.650000</start>
+    <end>0:16:09.870000</end>
+    <dialogue lang="en">That's the onde. They dance at each family grave that's had a death since last Obon.</dialogue>
+    <dialogue lang="jp">（美和）オンデよ 初盆の家の墓で踊っと</dialogue>
+  </subtitle>
+  <subtitle id="329">
+    <start>0:16:09.870000</start>
+    <end>0:16:11.400000</end>
+    <dialogue lang="en">They're kinda scary...</dialogue>
+    <dialogue lang="jp">（半田）なんか怖いな</dialogue>
+  </subtitle>
+  <subtitle id="330">
+    <start>0:16:27.670000</start>
+    <end>0:16:31.160000</end>
+    <dialogue lang="en">What does that mean, translated into Japanese?</dialogue>
+    <dialogue lang="jp">あれって 日本語に訳すと どういう意味なんだ？</dialogue>
+  </subtitle>
+  <subtitle id="331">
+    <start>0:16:31.160000</start>
+    <end>0:16:33.590000</end>
+    <dialogue lang="en">It ain't exactly a foreign language.</dialogue>
+    <dialogue lang="jp">別に外国語じゃなかし</dialogue>
+  </subtitle>
+  <subtitle id="332">
+    <start>0:16:44.570000</start>
+    <end>0:16:46.310000</end>
+    <dialogue lang="en">What's this? Why'd he stop?</dialogue>
+    <dialogue lang="jp">（半田）なんだ？　なぜ止まる</dialogue>
+  </subtitle>
+  <subtitle id="333">
+    <start>0:16:47</start>
+    <end>0:16:48.900000</end>
+    <dialogue lang="en">Also, isn't he looking my way?</dialogue>
+    <dialogue lang="jp">し… しかも こっち見てないか？</dialogue>
+  </subtitle>
+  <subtitle id="334">
+    <start>0:16:49.450000</start>
+    <end>0:16:50.620000</end>
+    <dialogue lang="en">He is looking at me!</dialogue>
+    <dialogue lang="jp">やっぱ見てる！ 俺 なんかマズいことしたか？</dialogue>
+  </subtitle>
+  <subtitle id="335">
+    <start>0:16:50.620000</start>
+    <end>0:16:52.610000</end>
+    <dialogue lang="en">Have I done something wrong?!</dialogue>
+    <dialogue lang="jp">（踊り子）ブッ！ （半田）ハッ！</dialogue>
+  </subtitle>
+  <subtitle id="336">
+    <start>0:16:55.520000</start>
+    <end>0:16:57.610000</end>
+    <dialogue lang="en">You should see the look on your face!</dialogue>
+    <dialogue lang="jp">なんて顔してんだよ</dialogue>
+  </subtitle>
+  <subtitle id="337">
+    <start>0:16:57.610000</start>
+    <end>0:16:58.770000</end>
+    <dialogue lang="en">Sensei, you frighten too easily.</dialogue>
+    <dialogue lang="jp">先生 ビビりすぎ</dialogue>
+  </subtitle>
+  <subtitle id="338">
+    <start>0:16:58.770000</start>
+    <end>0:16:59.580000</end>
+    <dialogue lang="en">Hiro?!</dialogue>
+    <dialogue lang="jp">（半田）ヒロ！ お前も軍団の一員だったのか？</dialogue>
+  </subtitle>
+  <subtitle id="339">
+    <start>0:17:01.920000</start>
+    <end>0:17:04.170000</end>
+    <dialogue lang="en">They were shorthanded, so I'm filling in.</dialogue>
+    <dialogue lang="jp">人手が足りないから 助っとだよ</dialogue>
+  </subtitle>
+  <subtitle id="340">
+    <start>0:17:04.170000</start>
+    <end>0:17:05.460000</end>
+    <dialogue lang="en">Hiro-senpai!</dialogue>
+    <dialogue lang="jp">（踊り子）ヒロ先輩</dialogue>
+  </subtitle>
+  <subtitle id="341">
+    <start>0:17:05.710000</start>
+    <end>0:17:07.320000</end>
+    <dialogue lang="en">We have to hurry to the next one!</dialogue>
+    <dialogue lang="jp">（踊り子）早く次 行こうで</dialogue>
+  </subtitle>
+  <subtitle id="342">
+    <start>0:17:07.320000</start>
+    <end>0:17:09.250000</end>
+    <dialogue lang="en">My feet are killin' me.</dialogue>
+    <dialogue lang="jp">（踊り子）足が痛(いて)え 死ぬばい</dialogue>
+  </subtitle>
+  <subtitle id="343">
+    <start>0:17:09.450000</start>
+    <end>0:17:11.720000</end>
+    <dialogue lang="en">Just three more. Hang in there!</dialogue>
+    <dialogue lang="jp">あと３軒ぞ ぎばれ</dialogue>
+  </subtitle>
+  <subtitle id="344">
+    <start>0:17:12.240000</start>
+    <end>0:17:14.760000</end>
+    <dialogue lang="en">Later, Sensei. I still have dancing to do.</dialogue>
+    <dialogue lang="jp">じゃあ 先生 まだ踊らなだから</dialogue>
+  </subtitle>
+  <subtitle id="345">
+    <start>0:17:14.760000</start>
+    <end>0:17:16.610000</end>
+    <dialogue lang="en">Sure. Good luck.</dialogue>
+    <dialogue lang="jp">おう 頑張れよ</dialogue>
+  </subtitle>
+  <subtitle id="346">
+    <start>0:17:21.290000</start>
+    <end>0:17:22.630000</end>
+    <dialogue lang="en">Don't follow me!</dialogue>
+    <dialogue lang="jp">（ヒロシ）ついてくるなよ！</dialogue>
+  </subtitle>
+  <subtitle id="347">
+    <start>0:17:22.630000</start>
+    <end>0:17:24.130000</end>
+    <dialogue lang="en">Why not?</dialogue>
+    <dialogue lang="jp">いいじゃないか お前の踊りっぷりが見たい</dialogue>
+  </subtitle>
+  <subtitle id="348">
+    <start>0:17:27.210000</start>
+    <end>0:17:30.230000</end>
+    <dialogue lang="en">Sensei's gradually starting to fit in here.</dialogue>
+    <dialogue lang="jp">先生って だんだん なじんできたよね</dialogue>
+  </subtitle>
+  <subtitle id="349">
+    <start>0:17:30.230000</start>
+    <end>0:17:32.230000</end>
+    <dialogue lang="en">He's totally actin' as Naru's guardian.</dialogue>
+    <dialogue lang="jp">すっかり なるの保護者やし</dialogue>
+  </subtitle>
+  <subtitle id="350">
+    <start>0:17:33.170000</start>
+    <end>0:17:35.840000</end>
+    <dialogue lang="en">I've tried to avoid thinking about it much,</dialogue>
+    <dialogue lang="jp">あんまり考えないように してたんだけど</dialogue>
+  </subtitle>
+  <subtitle id="351">
+    <start>0:17:35.840000</start>
+    <end>0:17:40.120000</end>
+    <dialogue lang="en">but didn't Sensei come here because he punched someone eminent in calligraphy?</dialogue>
+    <dialogue lang="jp">先生って 書道の偉い人 殴って 島に来てるんだよね</dialogue>
+  </subtitle>
+  <subtitle id="352">
+    <start>0:17:40.830000</start>
+    <end>0:17:42.880000</end>
+    <dialogue lang="en">What if his punishment were lifted?</dialogue>
+    <dialogue lang="jp">その罰が許されたら…</dialogue>
+  </subtitle>
+  <subtitle id="353">
+    <start>0:17:42.880000</start>
+    <end>0:17:44.080000</end>
+    <dialogue lang="en">Tama...</dialogue>
+    <dialogue lang="jp">タマ…</dialogue>
+  </subtitle>
+  <subtitle id="354">
+    <start>0:17:46.100000</start>
+    <end>0:17:48.310000</end>
+    <dialogue lang="en">Finished your summer homework yet?</dialogue>
+    <dialogue lang="jp">夏休みの宿題 終わった？</dialogue>
+  </subtitle>
+  <subtitle id="355">
+    <start>0:17:48.650000</start>
+    <end>0:17:50.310000</end>
+    <dialogue lang="en">Well, to a degree.</dialogue>
+    <dialogue lang="jp">まあ ある程度は</dialogue>
+  </subtitle>
+  <subtitle id="356">
+    <start>0:17:50.310000</start>
+    <end>0:17:51.570000</end>
+    <dialogue lang="en">Lemme copy it!</dialogue>
+    <dialogue lang="jp">写させてくれん？</dialogue>
+  </subtitle>
+  <subtitle id="357">
+    <start>0:17:51.570000</start>
+    <end>0:17:52.760000</end>
+    <dialogue lang="en">Miwa-chan...</dialogue>
+    <dialogue lang="jp">美和ちゃん…</dialogue>
+  </subtitle>
+  <subtitle id="358">
+    <start>0:17:56.250000</start>
+    <end>0:17:58.960000</end>
+    <dialogue lang="en">Ah! Yer late, Sensei!</dialogue>
+    <dialogue lang="jp">もう 先生 遅かよ</dialogue>
+  </subtitle>
+  <subtitle id="359">
+    <start>0:17:58.960000</start>
+    <end>0:18:00.050000</end>
+    <dialogue lang="en">Fireworks! Fireworks!</dialogue>
+    <dialogue lang="jp">（なる）花火 花火！</dialogue>
+  </subtitle>
+  <subtitle id="360">
+    <start>0:18:03.880000</start>
+    <end>0:18:04.940000</end>
+    <dialogue lang="en">It's smoky...</dialogue>
+    <dialogue lang="jp">けむい</dialogue>
+  </subtitle>
+  <subtitle id="361">
+    <start>0:18:04.940000</start>
+    <end>0:18:06.390000</end>
+    <dialogue lang="en">Heya, Sensei.</dialogue>
+    <dialogue lang="jp">（郷長）やあ 先生</dialogue>
+  </subtitle>
+  <subtitle id="362">
+    <start>0:18:07.170000</start>
+    <end>0:18:09.100000</end>
+    <dialogue lang="en">Mind if we offer incense?</dialogue>
+    <dialogue lang="jp">（郷長）線香 あげてもいいかな？ （半田）郷長</dialogue>
+  </subtitle>
+  <subtitle id="363">
+    <start>0:18:09.100000</start>
+    <end>0:18:09.980000</end>
+    <dialogue lang="en">Village Chief?</dialogue>
+    <dialogue lang="jp">なるのばあちゃんには 生前 世話になったからね</dialogue>
+  </subtitle>
+  <subtitle id="364">
+    <start>0:18:15.050000</start>
+    <end>0:18:16.450000</end>
+    <dialogue lang="en">Oh, from Kinoshita General Store.</dialogue>
+    <dialogue lang="jp">（プチの鳴き声）</dialogue>
+  </subtitle>
+  <subtitle id="365">
+    <start>0:18:16.450000</start>
+    <end>0:18:18.570000</end>
+    <dialogue lang="en">Mind if I offer incense?</dialogue>
+    <dialogue lang="jp">（半田）ああ 木下(きのした)商店の</dialogue>
+  </subtitle>
+  <subtitle id="366">
+    <start>0:18:18.900000</start>
+    <end>0:18:20.050000</end>
+    <dialogue lang="en">Please, go ahead.</dialogue>
+    <dialogue lang="jp">（半田）どうぞ どうぞ</dialogue>
+  </subtitle>
+  <subtitle id="367">
+    <start>0:18:22.080000</start>
+    <end>0:18:23.330000</end>
+    <dialogue lang="en">Hey! Miwa!</dialogue>
+    <dialogue lang="jp">（プチのほえ声） （半田）うわっ</dialogue>
+  </subtitle>
+  <subtitle id="368">
+    <start>0:18:23.790000</start>
+    <end>0:18:26.750000</end>
+    <dialogue lang="en">Why'd you leave our gravesite alone to goof off here?!</dialogue>
+    <dialogue lang="jp">（巌(いわお)）こら 美和！</dialogue>
+  </subtitle>
+  <subtitle id="369">
+    <start>0:18:26.750000</start>
+    <end>0:18:27.830000</end>
+    <dialogue lang="en">Geh! Dad!</dialogue>
+    <dialogue lang="jp">ゲッ 父ちゃん</dialogue>
+  </subtitle>
+  <subtitle id="370">
+    <start>0:18:28.270000</start>
+    <end>0:18:30.840000</end>
+    <dialogue lang="en">Sensei, tell him ya made me come here!</dialogue>
+    <dialogue lang="jp">先生が無理やり 連れてきたっち言って</dialogue>
+  </subtitle>
+  <subtitle id="371">
+    <start>0:18:30.840000</start>
+    <end>0:18:31.920000</end>
+    <dialogue lang="en">You're nuts! No way!</dialogue>
+    <dialogue lang="jp">バカ ヤダよ</dialogue>
+  </subtitle>
+  <subtitle id="372">
+    <start>0:18:32.330000</start>
+    <end>0:18:34.490000</end>
+    <dialogue lang="en">Sis, what are you doing?</dialogue>
+    <dialogue lang="jp">（あっきー） 姉ちゃん 何してんの？</dialogue>
+  </subtitle>
+  <subtitle id="373">
+    <start>0:18:34.490000</start>
+    <end>0:18:36.400000</end>
+    <dialogue lang="en">Mom's been looking for you.</dialogue>
+    <dialogue lang="jp">お母さんが捜してたよ</dialogue>
+  </subtitle>
+  <subtitle id="374">
+    <start>0:18:36.400000</start>
+    <end>0:18:37.420000</end>
+    <dialogue lang="en">Aki...</dialogue>
+    <dialogue lang="jp">あき よくここが分かったね</dialogue>
+  </subtitle>
+  <subtitle id="375">
+    <start>0:18:37.420000</start>
+    <end>0:18:38.930000</end>
+    <dialogue lang="en">How did you know I was here?</dialogue>
+    <dialogue lang="jp">お母さんが なるのばあちゃんに 線香 あげてこいって</dialogue>
+  </subtitle>
+  <subtitle id="376">
+    <start>0:18:43.070000</start>
+    <end>0:18:44.930000</end>
+    <dialogue lang="en">May I offer some this year, too?</dialogue>
+    <dialogue lang="jp">今年も線香 立てていい？</dialogue>
+  </subtitle>
+  <subtitle id="377">
+    <start>0:18:44.930000</start>
+    <end>0:18:45.930000</end>
+    <dialogue lang="en">Sure!</dialogue>
+    <dialogue lang="jp">よかよ！</dialogue>
+  </subtitle>
+  <subtitle id="378">
+    <start>0:18:49.200000</start>
+    <end>0:18:52.240000</end>
+    <dialogue lang="en">Naru's grandma is really popular.</dialogue>
+    <dialogue lang="jp">なるのばあさんって 人気者なんだな</dialogue>
+  </subtitle>
+  <subtitle id="379">
+    <start>0:18:52.240000</start>
+    <end>0:18:53.470000</end>
+    <dialogue lang="en">Yes, she is.</dialogue>
+    <dialogue lang="jp">そうだね 毎年 代わる代わる 誰か来るよ</dialogue>
+  </subtitle>
+  <subtitle id="380">
+    <start>0:18:56.220000</start>
+    <end>0:18:57.890000</end>
+    <dialogue lang="en">Since Naru's grandpa is busy,</dialogue>
+    <dialogue lang="jp">じいちゃんが忙しいから</dialogue>
+  </subtitle>
+  <subtitle id="381">
+    <start>0:18:57.890000</start>
+    <end>0:19:01.210000</end>
+    <dialogue lang="en">until now, Naru's had to keep vigil over the flame by herself.</dialogue>
+    <dialogue lang="jp">今までは なるが１人で 火の番をしてたんだけど</dialogue>
+  </subtitle>
+  <subtitle id="382">
+    <start>0:19:03.210000</start>
+    <end>0:19:06.200000</end>
+    <dialogue lang="en">Come to think of it, I've never seen Naru's parents...</dialogue>
+    <dialogue lang="jp">（半田）そういえば なるの親って見たことないな</dialogue>
+  </subtitle>
+  <subtitle id="383">
+    <start>0:19:06.770000</start>
+    <end>0:19:08.440000</end>
+    <dialogue lang="en">Sensei! A pinwheel!</dialogue>
+    <dialogue lang="jp">先生 ネズミ花火！</dialogue>
+  </subtitle>
+  <subtitle id="384">
+    <start>0:19:09.080000</start>
+    <end>0:19:09.620000</end>
+    <dialogue lang="en">Hey!</dialogue>
+    <dialogue lang="jp">（半田）うわっ… こら！</dialogue>
+  </subtitle>
+  <subtitle id="385">
+    <start>0:19:11.120000</start>
+    <end>0:19:13.080000</end>
+    <dialogue lang="en">Today's been more fun than usual!</dialogue>
+    <dialogue lang="jp">{\an8}（花火の破裂音）</dialogue>
+  </subtitle>
+  <subtitle id="386">
+    <start>0:19:13.470000</start>
+    <end>0:19:15.550000</end>
+    <dialogue lang="en">Give me a break, you brat.</dialogue>
+    <dialogue lang="jp">ハハハッ 今日は いつもより楽しかね</dialogue>
+  </subtitle>
+  <subtitle id="387">
+    <start>0:19:15.740000</start>
+    <end>0:19:19.370000</end>
+    <dialogue lang="en">It was always boring waiting for grampa to get back,</dialogue>
+    <dialogue lang="jp">いつも じいちゃんが 戻ってくっまで</dialogue>
+  </subtitle>
+  <subtitle id="388">
+    <start>0:19:19.370000</start>
+    <end>0:19:21.070000</end>
+    <dialogue lang="en">but today I don't wanna leave.</dialogue>
+    <dialogue lang="jp">退屈じゃったばって 今日は 帰りとなか気分</dialogue>
+  </subtitle>
+  <subtitle id="389">
+    <start>0:19:21.070000</start>
+    <end>0:19:22.510000</end>
+    <dialogue lang="en">Then spend the night here!</dialogue>
+    <dialogue lang="jp">（半田）墓に泊まっちまえ！</dialogue>
+  </subtitle>
+  <subtitle id="390">
+    <start>0:19:22.890000</start>
+    <end>0:19:24.600000</end>
+    <dialogue lang="en">I bet I know why.</dialogue>
+    <dialogue lang="jp">これ あれじゃんね 先生がおるけんじゃろね</dialogue>
+  </subtitle>
+  <subtitle id="391">
+    <start>0:19:28.980000</start>
+    <end>0:19:30.960000</end>
+    <dialogue lang="en">I wanna play, too!</dialogue>
+    <dialogue lang="jp">（なる）あー なるもやる！</dialogue>
+  </subtitle>
+  <subtitle id="392">
+    <start>0:19:31.870000</start>
+    <end>0:19:34.610000</end>
+    <dialogue lang="en">I never realized it since she's always with someone...</dialogue>
+    <dialogue lang="jp">（半田） いつも誰かと一緒にいるから</dialogue>
+  </subtitle>
+  <subtitle id="393">
+    <start>0:19:35.570000</start>
+    <end>0:19:38.140000</end>
+    <dialogue lang="en">But she gets lonely just like anyone else.</dialogue>
+    <dialogue lang="jp">人並みに 寂しかったりするんだよな</dialogue>
+  </subtitle>
+  <subtitle id="394">
+    <start>0:19:39.550000</start>
+    <end>0:19:43</end>
+    <dialogue lang="en">If I left her alone, she'd probably grow up fine on her own...</dialogue>
+    <dialogue lang="jp">どうせ 放っておいても 勝手に成長するんだろうけど</dialogue>
+  </subtitle>
+  <subtitle id="395">
+    <start>0:19:43</start>
+    <end>0:19:44.230000</end>
+    <dialogue lang="en">Yay!</dialogue>
+    <dialogue lang="jp">（なる）わーい！ （美和）アハハッ</dialogue>
+  </subtitle>
+  <subtitle id="396">
+    <start>0:19:45.250000</start>
+    <end>0:19:48.360000</end>
+    <dialogue lang="en">But maybe I'll look after her when I have time.</dialogue>
+    <dialogue lang="jp">（半田）俺が暇なうちは 構ってやるか</dialogue>
+  </subtitle>
+  <subtitle id="397">
+    <start>0:19:53.530000</start>
+    <end>0:19:55.080000</end>
+    <dialogue lang="en">The flame went out.</dialogue>
+    <dialogue lang="jp">あっ 火 消えちゃった</dialogue>
+  </subtitle>
+  <subtitle id="398">
+    <start>0:19:55.540000</start>
+    <end>0:19:57.520000</end>
+    <dialogue lang="en">It's already time to leave?</dialogue>
+    <dialogue lang="jp">もう 帰っ時間か？　今日は早かね</dialogue>
+  </subtitle>
+  <subtitle id="399">
+    <start>0:20:00.220000</start>
+    <end>0:20:01.470000</end>
+    <dialogue lang="en">We're goin' now?</dialogue>
+    <dialogue lang="jp">もう帰っと？</dialogue>
+  </subtitle>
+  <subtitle id="400">
+    <start>0:20:01.770000</start>
+    <end>0:20:04.400000</end>
+    <dialogue lang="en">Your grandpa hasn't come back yet.</dialogue>
+    <dialogue lang="jp">じいさんが まだ戻ってこないからな</dialogue>
+  </subtitle>
+  <subtitle id="401">
+    <start>0:20:06.270000</start>
+    <end>0:20:07.200000</end>
+    <dialogue lang="en">So I'll extend it.</dialogue>
+    <dialogue lang="jp">（半田）延長だ （なる）わあ やったー！</dialogue>
+  </subtitle>
+  <subtitle id="402">
+    <start>0:20:08.100000</start>
+    <end>0:20:08.890000</end>
+    <dialogue lang="en">All right!</dialogue>
+    <dialogue lang="jp">（美和･タマ）先生 優しい （半田）うっさい！</dialogue>
+  </subtitle>
+  <subtitle id="403">
+    <start>0:20:10.760000</start>
+    <end>0:20:11.510000</end>
+    <dialogue lang="en">Shut up!</dialogue>
+    <dialogue lang="jp">（なる）ばあちゃん なるは まだ遊ばゆっよ</dialogue>
+  </subtitle>
+  <subtitle id="404">
+    <start>0:20:12.810000</start>
+    <end>0:20:14.710000</end>
+    <dialogue lang="en">I'm gonna keep playin' here!</dialogue>
+    <dialogue lang="jp">（半田）そんなに うれしいか？</dialogue>
+  </subtitle>
+  <subtitle id="405">
+    <start>0:20:14.710000</start>
+    <end>0:20:15.860000</end>
+    <dialogue lang="en">You're that happy?</dialogue>
+    <dialogue lang="jp">あっ 先生 見て見て</dialogue>
+  </subtitle>
+  <subtitle id="406">
+    <start>0:20:19.330000</start>
+    <end>0:20:21.260000</end>
+    <dialogue lang="en">Gramma's smilin' too!</dialogue>
+    <dialogue lang="jp">ばあちゃんも笑っちょっよ</dialogue>
+  </subtitle>
+  <subtitle id="407">
+    <start>0:21:55.310000</start>
+    <end>0:21:56.840000</end>
+    <dialogue lang="en">Heya, Sensei.</dialogue>
+    <dialogue lang="jp">（プチ）やあ 先生</dialogue>
+  </subtitle>
+  <subtitle id="408">
+    <start>0:21:56.840000</start>
+    <end>0:21:58.030000</end>
+    <dialogue lang="en">Pooch-san!</dialogue>
+    <dialogue lang="jp">プチさん 夕飯でも釣りに来たんですか？</dialogue>
+  </subtitle>
+  <subtitle id="409">
+    <start>0:22:01.060000</start>
+    <end>0:22:03.160000</end>
+    <dialogue lang="en">Dogs don't eat crayfish.</dialogue>
+    <dialogue lang="jp">ヘヘッ 犬は ザリガニ食わねえよ</dialogue>
+  </subtitle>
+  <subtitle id="410">
+    <start>0:22:04.430000</start>
+    <end>0:22:08.390000</end>
+    <dialogue lang="en">You're looking like one of the locals, fishing at the lake like this.</dialogue>
+    <dialogue lang="jp">だんぽで釣りをしてる姿が サマになってきたんじゃねえか？</dialogue>
+  </subtitle>
+  <subtitle id="411">
+    <start>0:22:08.390000</start>
+    <end>0:22:10.140000</end>
+    <dialogue lang="en">Oh, no... I'm still learning.</dialogue>
+    <dialogue lang="jp">そんな まだまだ</dialogue>
+  </subtitle>
+  <subtitle id="412">
+    <start>0:22:10.310000</start>
+    <end>0:22:13.830000</end>
+    <dialogue lang="en">The villagers seem to like you too, Sensei.</dialogue>
+    <dialogue lang="jp">村の連中も 先生のこと 気に入ってるみたいだし</dialogue>
+  </subtitle>
+  <subtitle id="413">
+    <start>0:22:13.830000</start>
+    <end>0:22:15.770000</end>
+    <dialogue lang="en">Why not move here permanently?</dialogue>
+    <dialogue lang="jp">このまま永住したらどうだ？</dialogue>
+  </subtitle>
+  <subtitle id="414">
+    <start>0:22:15.890000</start>
+    <end>0:22:18.310000</end>
+    <dialogue lang="en">I'm afraid I can't do that.</dialogue>
+    <dialogue lang="jp">さすがに それはできませんよ</dialogue>
+  </subtitle>
+  <subtitle id="415">
+    <start>0:22:19.560000</start>
+    <end>0:22:20.480000</end>
+    <dialogue lang="en">I see.</dialogue>
+    <dialogue lang="jp">ヘッヘヘ そうかい</dialogue>
+  </subtitle>
+  <subtitle id="416">
+    <start>0:22:20.820000</start>
+    <end>0:22:24.280000</end>
+    <dialogue lang="en">Well, when there's a place that accepts you as you are,</dialogue>
+    <dialogue lang="jp">まあ 自分を受け入れてくれる 場所があれば</dialogue>
+  </subtitle>
+  <subtitle id="417">
+    <start>0:22:24.280000</start>
+    <end>0:22:26.440000</end>
+    <dialogue lang="en">don't you feel like it's safe to attempt the impossible?</dialogue>
+    <dialogue lang="jp">安心して ムチャもできるだろう</dialogue>
+  </subtitle>
+  <subtitle id="418">
+    <start>0:22:28.240000</start>
+    <end>0:22:29.570000</end>
+    <dialogue lang="en">Pooch-san...</dialogue>
+    <dialogue lang="jp">プチさん</dialogue>
+  </subtitle>
+  <subtitle id="419">
+    <start>0:22:30.050000</start>
+    <end>0:22:33.940000</end>
+    <dialogue lang="en">Treat me to lobster once you're a big-shot calligrapher!</dialogue>
+    <dialogue lang="jp">（プチ）大物の書道家になったら</dialogue>
+  </subtitle>
+  <subtitle id="420">
+    <start>0:22:35.290000</start>
+    <end>0:22:37.550000</end>
+    <dialogue lang="en">So you do eat crayfish!</dialogue>
+    <dialogue lang="jp">（半田）アハハッ</dialogue>
+  </subtitle>
+  <subtitle id="421">
+    <start>0:22:37.550000</start>
+    <end>0:22:39.780000</end>
+    <dialogue lang="en">Don't tell the shopkeeper, okay?</dialogue>
+    <dialogue lang="jp">（プチ）店長には ナイショだぜ</dialogue>
+  </subtitle>
+  <subtitle id="422">
+    <start>0:22:41.480000</start>
+    <end>0:22:43.260000</end>
+    <dialogue lang="en">That's what he said in my dream.</dialogue>
+    <dialogue lang="jp">…って 夢を見たんだ</dialogue>
+  </subtitle>
+  <subtitle id="423">
+    <start>0:22:43.660000</start>
+    <end>0:22:45.650000</end>
+    <dialogue lang="en">It was just a dream, but it still made me happy.</dialogue>
+    <dialogue lang="jp">夢だけど 俺はうれしかったよ</dialogue>
+  </subtitle>
+  <subtitle id="424">
+    <start>0:22:46.090000</start>
+    <end>0:22:47.240000</end>
+    <dialogue lang="en">Huh...</dialogue>
+    <dialogue lang="jp">へえ プチってメスだぞ</dialogue>
+  </subtitle>
+  <subtitle id="425">
+    <start>0:22:47.640000</start>
+    <end>0:22:49.240000</end>
+    <dialogue lang="en">Pooch is female.</dialogue>
+    <dialogue lang="jp">えっ!?</dialogue>
+  </subtitle>
+</episode>
