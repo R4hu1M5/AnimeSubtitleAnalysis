@@ -1,8 +1,7 @@
 import xml.etree.ElementTree as ET
 from pymongo import MongoClient
 
-def parse_xml(name, ep):
-    path = f"../subtitles_xml/{name}/{ep:02d}.xml"
+def parse_xml(path):
     print(f"Reading {path}")
     episode = ET.parse(path).getroot()
     id = episode.attrib.get("id")

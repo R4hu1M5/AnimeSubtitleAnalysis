@@ -28,3 +28,34 @@ Set up MongoDB on local and run the following command:
 ```bash
 python3 src/main.py
 ```
+
+(Optional) The generated XML files can be verified using the schemas as follows:
+
+```bash
+xmllint --schema subtitles_xml/schema.xsd subtitles_xml/*/*.xml
+xmllint --schema results/schema.xsd results/*.xml
+```
+
+---
+
+## Files
+
+Here is a guide to the folder structure for the repository:
+
+- src/ - The folder containing the main source code
+  * `collect.py` - Download subtitles
+  * `vars.py` - Global variables used in the project
+  * `parse.py` - Parse the subtitle files for both languages and write them to a common XML file
+  * `insert.py` - Parse the subtitle XML files and insert them into a MongoDB database
+  * `search.py` - Run search functions for the tasks as outlined above, write results to an XML file and use the XSLT file to
+  * `main.py` - Main caller function for the project
+- subtitles/ - Subtitle files in EN and JP
+- subtitles_xml/ - XML files for the subtitles
+  * schema.xsd - XML schema for the subtitle files
+- results/ - Search-term-wise XML and HTML files for the task results
+  * schema.xsd - XML schema for the subtitle files
+  * transform.xslt - XSLT stylesheet for the XML to HTML conversion
+
+---
+
+> **PS:** [Link](https://github.com/R4hu1M5/AnimeSubtitleAnalysis) to the GitHub repository

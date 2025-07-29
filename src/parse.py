@@ -3,8 +3,7 @@ from datetime import timedelta
 import xml.etree.ElementTree as ET
 
 
-def parse(name, ep, lang):
-    path = f"../subtitles/{name}/{ep:02d}.{lang}.srt"
+def parse(path):
     print(f"Reading {path}")
     with open(path, encoding="utf-8-sig") as f:
         text = f.read()
@@ -49,10 +48,10 @@ def align(en_subs, jp_subs, max_offset=timedelta(seconds=3)):
             used.add(jp_subs.index(closest))
     return alignment
 
-def write(aligned_subs, name, ep):
+def write(aligned_subs, path, attrs):
     print("Creating XML tree for the aligned subtitles")
-    episode = ET.Element("episode", id=f"{name}_{ep:02d}")
-    episode.set("title", f"{name.replace('_', ' ').title()} Episode {ep:02d}")
+    episode = ET.Element("episode", id=f"{attrs["name"]}_{attrs["episode"]:02d}")
+    episode.set("title", f"{attrs["name"].replace('_', ' ').title()} Episode {attrs["episode"]:02d}")
     for i, (en, jp) in enumerate(aligned_subs, start=1):
         # Create sub-elements to the root episode element following the schema
         sub = ET.SubElement(episode, "subtitle", attrib={"id": str(i)})
@@ -61,7 +60,6 @@ def write(aligned_subs, name, ep):
         ET.SubElement(sub, "dialogue", attrib={"lang": "en"}).text = en["text"]
         ET.SubElement(sub, "dialogue", attrib={"lang": "jp"}).text = jp["text"]
     
-    path = f"../subtitles_xml/{name}/{ep:02d}.xml"
     print(f"Writing tree to {path}")
     tree = ET.ElementTree(episode)
     ET.indent(tree, space="  ")
